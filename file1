@@ -6,5 +6,13 @@ if success then
     print("Script executed successfully.")
 else
     print("An error occurred while running the script:")
-    print(result)
+    if type(result) == "string" then
+        print("Error message: " .. result)
+    else
+        print("Error type: " .. type(result))
+        print("Error details: ")
+        for key, value in pairs(result) do
+            print(key .. ":", value)
+        end
+    end
 end
