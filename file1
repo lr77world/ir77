@@ -1,4 +1,5 @@
-print("hi")
+local playerName = game.Players.LocalPlayer.Name
+print("Welcome, " .. playerName .. ", Thanks for choosing Krypton Exploit!")
 -- (VOID) : Gui to Lua
 -- Version: 1.4
 
