@@ -3,7 +3,7 @@
 
 -- Instances:
 
-local oingnudogbhdr = Instance.new("ScreenGui")
+local fewrgzibgews = Instance.new("ScreenGui")
 local OpenKr = Instance.new("ImageLabel")
 local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
 local openBtn = Instance.new("TextButton")
@@ -13,12 +13,12 @@ local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
 
 --Properties:
 
-oingnudogbhdr.Name = "oingnudogbhdr"
-oingnudogbhdr.Parent = (game:GetService("CoreGui") or gethui())
-oingnudogbhdr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+fewrgzibgews.Name = "fewrgzibgews"
+fewrgzibgews.Parent = (game:GetService("CoreGui") or gethui())
+fewrgzibgews.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 OpenKr.Name = "OpenKr"
-OpenKr.Parent = oingnudogbhdr
+OpenKr.Parent = fewrgzibgews
 OpenKr.Active = true
 OpenKr.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 OpenKr.BackgroundTransparency = 1.000
@@ -35,8 +35,8 @@ openBtn.Name = "openBtn"
 openBtn.Parent = OpenKr
 openBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 openBtn.BackgroundTransparency = 1.000
-openBtn.Position = UDim2.new(0, 27, 0, 21)
-openBtn.Size = UDim2.new(0, 53, 0, 51)
+openBtn.Position = UDim2.new(0, 20, 0, 15)
+openBtn.Size = UDim2.new(0, 34, 0, 32)
 openBtn.ZIndex = 999999999
 openBtn.Font = Enum.Font.GothamBold
 openBtn.Text = "  "
@@ -56,7 +56,7 @@ UITextSizeConstraint.MaxTextSize = 51
 
 -- Scripts:
 
-local function TFCY_fake_script() -- OpenKr.drag 
+local function KIUEHT_fake_script() -- OpenKr.drag 
 	local script = Instance.new('LocalScript', OpenKr)
 
 	local UIS = game:GetService('UserInputService')
@@ -94,17 +94,17 @@ local function TFCY_fake_script() -- OpenKr.drag
 		end
 	end)
 end
-coroutine.wrap(TFCY_fake_script)()
-local function JJFIP_fake_script() -- openBtn.openScript 
+coroutine.wrap(KIUEHT_fake_script)()
+local function CJTI_fake_script() -- openBtn.openScript 
 	local script = Instance.new('LocalScript', openBtn)
 
 	local btn = script.Parent.Parent.openBtn
-	local openKr = script.Parent.Parent.Parent.OpenKr
 	
 	btn.MouseButton1Click:Connect(function()	
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/menu"))()
-		wait(0.001)
-		openKr:Destroy()
+		wait(0.01)
+		btn:Destroy()
 	end)
+	
 end
-coroutine.wrap(JJFIP_fake_script)()
+coroutine.wrap(CJTI_fake_script)()
