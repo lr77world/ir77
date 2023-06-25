@@ -2,7 +2,7 @@ if getgenv().krypton_loaded then return end
 getgenv().krypton_loaded = true
 
 local playerName = game.Players.LocalPlayer.Name
-print("Welcome, " .. playerName .. ", Thanks for choosing Krypton Exploit!")
+print("Welcome, " .. playerName .. ". Thanks for choosing Krypton Exploit!")
 -- (VOID) : Gui to Lua
 -- Version: 1.4
 
