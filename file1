@@ -1,7 +1,9 @@
 local success, result = true
 
 local function executeScript()
-    loadstring(game:HttpGet("lr77world/ir77/blob/main/one"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/one"))()
+wait(0.01)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/two"))()
 end
 
 local function handleError(error)
