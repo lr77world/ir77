@@ -1,28 +1,12 @@
-local success, result = true
+local success, result = pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/one"))()
+    wait(0.01)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/two"))()
+end)
 
-local function executeScript()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/one"))()
-wait(0.01)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/two"))()
-end
-
-local function handleError(error)
-    print("An error occurred while running the script:")
-    if type(error) == "string" then
-        print("Error message: " .. error)
-    else
-        print("Error type: " .. type(error))
-        print("Error details:")
-        for key, value in pairs(error) do
-            print(key .. ":", value)
-        end
-    end
-end
-
-local status, error = pcall(executeScript)
-
-if status then
+if success then
     print("Script executed successfully.")
 else
-    handleError(error)
+    print("An error occurred while running the script:")
+    print(result)
 end
