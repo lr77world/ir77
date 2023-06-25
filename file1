@@ -1,12 +1,3 @@
---[[
-	 Gui to Lua Converter
--- Revamped by:HoIyScript
---]]
-
-
-
--- Instances:
-
 local kr = Instance.new("ScreenGui")
 local MainMenu = Instance.new("ImageLabel")
 local EditorPage = Instance.new("Frame")
@@ -520,12 +511,8 @@ local openBtn = Instance.new("TextButton")
 local UIAspectRatioConstraint_146 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_68 = Instance.new("UITextSizeConstraint")
 
---[[
-	Properties:
---]]
-
 kr.Name = "kr"
-kr.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+kr.Parent = (game:getService("CoreGui") or gethui())
 kr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 kr.ResetOnSpawn = false
 
