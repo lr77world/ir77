@@ -523,7 +523,7 @@ local TextLabel_84 = Instance.new("TextLabel")
 --]]
 
 kr.Name = "kr"
-kr.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+kr.Parent = (game:GetService("CoreGui") or gethui())
 kr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 kr.ResetOnSpawn = false
 
