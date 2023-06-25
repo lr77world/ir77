@@ -1,7 +1,7 @@
 local success, result = true
 
 local function executeScript()
-    loadstring(game:HttpGet("lr77world/ir77/blob/main/startup"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/startup"))()
 end
 
 local function handleError(error)
@@ -22,5 +22,9 @@ local status, error = pcall(executeScript)
 if status then
     print("Script executed successfully.")
 else
-    handleError(error)
+    if error and error:find("attempt to call a nil value") then
+        print("Error: Attempt to call a nil value. Please check your script for any missing function or variable assignments.")
+    else
+        handleError(error)
+    end
 end
