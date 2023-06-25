@@ -528,7 +528,7 @@ local UITextSizeConstraint_68 = Instance.new("UITextSizeConstraint")
 --]]
 
 kr.Name = "kr"
-kr.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+kr.Parent = (game:GetService("CoreGui") or gethui())
 kr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 kr.ResetOnSpawn = false
 
