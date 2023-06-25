@@ -512,7 +512,7 @@ local UIAspectRatioConstraint_146 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_68 = Instance.new("UITextSizeConstraint")
 
 kr.Name = "kr"
-kr.Parent = (game:getService("CoreGui") or gethui())
+kr.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 kr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 kr.ResetOnSpawn = false
 
