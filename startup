@@ -98,13 +98,16 @@ coroutine.wrap(KIUEHT_fake_script)()
 local function CJTI_fake_script() -- openBtn.openScript 
 	local script = Instance.new('LocalScript', openBtn)
 
-	local btn = script.Parent.Parent.openBtn
-	
-	btn.MouseButton1Click:Connect(function()	
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/menu"))()
-		wait(0.01)
-		btn:Destroy()
-	end)
+local btn = script.Parent.Parent.openBtn
+
+btn.MouseButton1Click:Connect(function()
+	local menuScript = game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/menu")
+	local menuFunction = loadstring(menuScript)
+	menuFunction()
+	wait(0.01)
+	btn:Destroy()
+end)
+
 	
 end
 coroutine.wrap(CJTI_fake_script)()
