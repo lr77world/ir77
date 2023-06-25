@@ -56,7 +56,7 @@ UITextSizeConstraint.MaxTextSize = 51
 
 -- Scripts:
 
-local function KIUEHT_fake_script() -- OpenKr.drag 
+local function FMJWXZ_fake_script() -- OpenKr.drag 
 	local script = Instance.new('LocalScript', OpenKr)
 
 	local UIS = game:GetService('UserInputService')
@@ -94,20 +94,34 @@ local function KIUEHT_fake_script() -- OpenKr.drag
 		end
 	end)
 end
-coroutine.wrap(KIUEHT_fake_script)()
-local function CJTI_fake_script() -- openBtn.openScript 
+coroutine.wrap(FMJWXZ_fake_script)()
+local function QVSWA_fake_script() -- openBtn.openScript 
 	local script = Instance.new('LocalScript', openBtn)
 
-local btn = script.Parent.Parent.openBtn
-
-btn.MouseButton1Click:Connect(function()
-	local menuScript = game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/menu")
-	local menuFunction = loadstring(menuScript)
-	menuFunction()
-	wait(0.01)
-	btn:Destroy()
-end)
-
+	local button = script.Parent.Parent.openBtn
+	
+	-- Define the URL of the loadstring code
+	local loadstringURL = "https://raw.githubusercontent.com/lr77world/ir77/main/menu"
+	
+	-- Function to handle the button click
+	local function onButtonClicked()
+		local success, result = pcall(function()
+			return game:HttpGet(loadstringURL)
+		end)
+	
+		if success then
+			local loadstringCode = result
+			local success, errorMsg = pcall(loadstring, loadstringCode)
+			if not success then
+				warn("Error running loadstring:", errorMsg)
+			end
+		else
+			warn("Error retrieving loadstring code:", result)
+		end
+	end
+	
+	-- Connect the button click event to the handler function
+	button.MouseButton1Click:Connect(onButtonClicked)
 	
 end
-coroutine.wrap(CJTI_fake_script)()
+coroutine.wrap(QVSWA_fake_script)()
