@@ -355,40 +355,34 @@ local ImageLabel_29 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_89 = Instance.new("UIAspectRatioConstraint")
 local ImageLabel_30 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_90 = Instance.new("UIAspectRatioConstraint")
-local CONSOLEBTN = Instance.new("Frame")
-local Frame_22 = Instance.new("Frame")
-local ImageLabel_31 = Instance.new("ImageLabel")
-local ImageLabel_32 = Instance.new("ImageLabel")
-local TextLabel_57 = Instance.new("TextLabel")
-local UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint")
-local TextButton_11 = Instance.new("TextButton")
-local UIAspectRatioConstraint_91 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_42 = Instance.new("UITextSizeConstraint")
-local UIAspectRatioConstraint_92 = Instance.new("UIAspectRatioConstraint")
 local SidebarH = Instance.new("Frame")
-local UIAspectRatioConstraint_93 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_91 = Instance.new("UIAspectRatioConstraint")
 local Topbar = Instance.new("Frame")
 local closeBtn = Instance.new("ImageButton")
-local UIAspectRatioConstraint_94 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_92 = Instance.new("UIAspectRatioConstraint")
+local TextLabel_57 = Instance.new("TextLabel")
+local ImageLabel_31 = Instance.new("ImageLabel")
+local UIAspectRatioConstraint_93 = Instance.new("UIAspectRatioConstraint")
 local TextLabel_58 = Instance.new("TextLabel")
-local ImageLabel_33 = Instance.new("ImageLabel")
-local UIAspectRatioConstraint_95 = Instance.new("UIAspectRatioConstraint")
+local ImageLabel_32 = Instance.new("ImageLabel")
 local TextLabel_59 = Instance.new("TextLabel")
-local ImageLabel_34 = Instance.new("ImageLabel")
 local TextLabel_60 = Instance.new("TextLabel")
 local TextLabel_61 = Instance.new("TextLabel")
-local TextLabel_62 = Instance.new("TextLabel")
 local hidebtn = Instance.new("TextButton")
 local TopbarH = Instance.new("Frame")
-local UIAspectRatioConstraint_96 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_94 = Instance.new("UIAspectRatioConstraint")
 local TopbarH2 = Instance.new("Frame")
 local WelcomeWindow = Instance.new("Frame")
-local UIAspectRatioConstraint_97 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_95 = Instance.new("UIAspectRatioConstraint")
 local welcomerFrame = Instance.new("Frame")
-local TextLabel_63 = Instance.new("TextLabel")
-local UITextSizeConstraint_43 = Instance.new("UITextSizeConstraint")
-local UIAspectRatioConstraint_98 = Instance.new("UIAspectRatioConstraint")
+local TextLabel_62 = Instance.new("TextLabel")
+local UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint")
+local UIAspectRatioConstraint_96 = Instance.new("UIAspectRatioConstraint")
 local Page2 = Instance.new("Frame")
+local ImageLabel_33 = Instance.new("ImageLabel")
+local UIAspectRatioConstraint_97 = Instance.new("UIAspectRatioConstraint")
+local ImageLabel_34 = Instance.new("ImageLabel")
+local UIAspectRatioConstraint_98 = Instance.new("UIAspectRatioConstraint")
 local ImageLabel_35 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_99 = Instance.new("UIAspectRatioConstraint")
 local ImageLabel_36 = Instance.new("ImageLabel")
@@ -411,133 +405,125 @@ local ImageLabel_44 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_108 = Instance.new("UIAspectRatioConstraint")
 local ImageLabel_45 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_109 = Instance.new("UIAspectRatioConstraint")
-local ImageLabel_46 = Instance.new("ImageLabel")
+local Frame_22 = Instance.new("Frame")
 local UIAspectRatioConstraint_110 = Instance.new("UIAspectRatioConstraint")
-local ImageLabel_47 = Instance.new("ImageLabel")
+local ImageLabel_46 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_111 = Instance.new("UIAspectRatioConstraint")
-local Frame_23 = Instance.new("Frame")
+local ImageLabel_47 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_112 = Instance.new("UIAspectRatioConstraint")
-local ImageLabel_48 = Instance.new("ImageLabel")
+local Frame_23 = Instance.new("Frame")
+local TextLabel_63 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_113 = Instance.new("UIAspectRatioConstraint")
-local ImageLabel_49 = Instance.new("ImageLabel")
-local UIAspectRatioConstraint_114 = Instance.new("UIAspectRatioConstraint")
-local Frame_24 = Instance.new("Frame")
+local UITextSizeConstraint_42 = Instance.new("UITextSizeConstraint")
 local TextLabel_64 = Instance.new("TextLabel")
+local UIAspectRatioConstraint_114 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_43 = Instance.new("UITextSizeConstraint")
+local TextLabel_65 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_115 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_44 = Instance.new("UITextSizeConstraint")
-local TextLabel_65 = Instance.new("TextLabel")
+local TextLabel_66 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_116 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_45 = Instance.new("UITextSizeConstraint")
-local TextLabel_66 = Instance.new("TextLabel")
+local TextLabel_67 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_117 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_46 = Instance.new("UITextSizeConstraint")
-local TextLabel_67 = Instance.new("TextLabel")
+local TextLabel_68 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_118 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_47 = Instance.new("UITextSizeConstraint")
-local TextLabel_68 = Instance.new("TextLabel")
+local TextLabel_69 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_119 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_48 = Instance.new("UITextSizeConstraint")
-local TextLabel_69 = Instance.new("TextLabel")
+local TextLabel_70 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_120 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_49 = Instance.new("UITextSizeConstraint")
-local TextLabel_70 = Instance.new("TextLabel")
-local UIAspectRatioConstraint_121 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_50 = Instance.new("UITextSizeConstraint")
 local TextLabel_71 = Instance.new("TextLabel")
-local UIAspectRatioConstraint_122 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_51 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_50 = Instance.new("UITextSizeConstraint")
 local TextLabel_72 = Instance.new("TextLabel")
-local UITextSizeConstraint_52 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_51 = Instance.new("UITextSizeConstraint")
 local TextLabel_73 = Instance.new("TextLabel")
-local UITextSizeConstraint_53 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_52 = Instance.new("UITextSizeConstraint")
 local TextLabel_74 = Instance.new("TextLabel")
-local UITextSizeConstraint_54 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_53 = Instance.new("UITextSizeConstraint")
 local TextLabel_75 = Instance.new("TextLabel")
-local UITextSizeConstraint_55 = Instance.new("UITextSizeConstraint")
+local UIAspectRatioConstraint_121 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_54 = Instance.new("UITextSizeConstraint")
+local iagreeFr = Instance.new("Frame")
 local TextLabel_76 = Instance.new("TextLabel")
+local UIAspectRatioConstraint_122 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_55 = Instance.new("UITextSizeConstraint")
+local iagree = Instance.new("TextButton")
 local UIAspectRatioConstraint_123 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_56 = Instance.new("UITextSizeConstraint")
-local iagreeFr = Instance.new("Frame")
-local TextLabel_77 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_124 = Instance.new("UIAspectRatioConstraint")
+local TextLabel_77 = Instance.new("TextLabel")
 local UITextSizeConstraint_57 = Instance.new("UITextSizeConstraint")
-local iagree = Instance.new("TextButton")
-local UIAspectRatioConstraint_125 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_58 = Instance.new("UITextSizeConstraint")
-local UIAspectRatioConstraint_126 = Instance.new("UIAspectRatioConstraint")
 local TextLabel_78 = Instance.new("TextLabel")
-local UITextSizeConstraint_59 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_58 = Instance.new("UITextSizeConstraint")
+local UIAspectRatioConstraint_125 = Instance.new("UIAspectRatioConstraint")
 local TextLabel_79 = Instance.new("TextLabel")
-local UITextSizeConstraint_60 = Instance.new("UITextSizeConstraint")
+local UITextSizeConstraint_59 = Instance.new("UITextSizeConstraint")
+local ImageLabel_48 = Instance.new("ImageLabel")
+local UIAspectRatioConstraint_126 = Instance.new("UIAspectRatioConstraint")
 local UIAspectRatioConstraint_127 = Instance.new("UIAspectRatioConstraint")
-local TextLabel_80 = Instance.new("TextLabel")
-local UITextSizeConstraint_61 = Instance.new("UITextSizeConstraint")
-local ImageLabel_50 = Instance.new("ImageLabel")
+local ImageLabel_49 = Instance.new("ImageLabel")
 local UIAspectRatioConstraint_128 = Instance.new("UIAspectRatioConstraint")
-local UIAspectRatioConstraint_129 = Instance.new("UIAspectRatioConstraint")
-local ImageLabel_51 = Instance.new("ImageLabel")
-local UIAspectRatioConstraint_130 = Instance.new("UIAspectRatioConstraint")
+local TextLabel_80 = Instance.new("TextLabel")
+local UITextSizeConstraint_60 = Instance.new("UITextSizeConstraint")
 local TextLabel_81 = Instance.new("TextLabel")
-local UITextSizeConstraint_62 = Instance.new("UITextSizeConstraint")
-local TextLabel_82 = Instance.new("TextLabel")
-local UITextSizeConstraint_63 = Instance.new("UITextSizeConstraint")
-local UIAspectRatioConstraint_131 = Instance.new("UIAspectRatioConstraint")
-local UIAspectRatioConstraint_132 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_61 = Instance.new("UITextSizeConstraint")
+local UIAspectRatioConstraint_129 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_130 = Instance.new("UIAspectRatioConstraint")
 local clearWindow = Instance.new("Frame")
 local clearFrame = Instance.new("Frame")
+local Frame_24 = Instance.new("Frame")
+local TextLabel_82 = Instance.new("TextLabel")
+local UIAspectRatioConstraint_131 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_62 = Instance.new("UITextSizeConstraint")
+local clear = Instance.new("TextButton")
+local UIAspectRatioConstraint_132 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_63 = Instance.new("UITextSizeConstraint")
+local UIAspectRatioConstraint_133 = Instance.new("UIAspectRatioConstraint")
 local Frame_25 = Instance.new("Frame")
 local TextLabel_83 = Instance.new("TextLabel")
-local UIAspectRatioConstraint_133 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_64 = Instance.new("UITextSizeConstraint")
-local clear = Instance.new("TextButton")
+local TextButton_11 = Instance.new("TextButton")
 local UIAspectRatioConstraint_134 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_65 = Instance.new("UITextSizeConstraint")
 local UIAspectRatioConstraint_135 = Instance.new("UIAspectRatioConstraint")
-local Frame_26 = Instance.new("Frame")
 local TextLabel_84 = Instance.new("TextLabel")
-local UITextSizeConstraint_66 = Instance.new("UITextSizeConstraint")
-local TextButton_12 = Instance.new("TextButton")
 local UIAspectRatioConstraint_136 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_67 = Instance.new("UITextSizeConstraint")
-local UIAspectRatioConstraint_137 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_66 = Instance.new("UITextSizeConstraint")
 local TextLabel_85 = Instance.new("TextLabel")
+local UIAspectRatioConstraint_137 = Instance.new("UIAspectRatioConstraint")
+local UITextSizeConstraint_67 = Instance.new("UITextSizeConstraint")
+local TextLabel_86 = Instance.new("TextLabel")
 local UIAspectRatioConstraint_138 = Instance.new("UIAspectRatioConstraint")
 local UITextSizeConstraint_68 = Instance.new("UITextSizeConstraint")
-local TextLabel_86 = Instance.new("TextLabel")
-local UIAspectRatioConstraint_139 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_69 = Instance.new("UITextSizeConstraint")
-local TextLabel_87 = Instance.new("TextLabel")
-local UIAspectRatioConstraint_140 = Instance.new("UIAspectRatioConstraint")
-local UITextSizeConstraint_70 = Instance.new("UITextSizeConstraint")
 local ImageButton = Instance.new("ImageButton")
+local UIAspectRatioConstraint_139 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_140 = Instance.new("UIAspectRatioConstraint")
 local UIAspectRatioConstraint_141 = Instance.new("UIAspectRatioConstraint")
-local UIAspectRatioConstraint_142 = Instance.new("UIAspectRatioConstraint")
-local UIAspectRatioConstraint_143 = Instance.new("UIAspectRatioConstraint")
 local shadow2_3 = Instance.new("Frame")
-local UIAspectRatioConstraint_144 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_142 = Instance.new("UIAspectRatioConstraint")
 local ProfilePage = Instance.new("Frame")
-local Frame_27 = Instance.new("Frame")
+local Frame_26 = Instance.new("Frame")
 local DName_2 = Instance.new("TextLabel")
 local statusImage_7 = Instance.new("ImageLabel")
-local TextLabel_88 = Instance.new("TextLabel")
+local TextLabel_87 = Instance.new("TextLabel")
+local Frame_27 = Instance.new("Frame")
+local ImageLabel_50 = Instance.new("ImageLabel")
 local Frame_28 = Instance.new("Frame")
-local ImageLabel_52 = Instance.new("ImageLabel")
 local Frame_29 = Instance.new("Frame")
-local Frame_30 = Instance.new("Frame")
-local ConsolePage = Instance.new("Frame")
-local ScrollingFrame_5 = Instance.new("ScrollingFrame")
-local UIPadding_2 = Instance.new("UIPadding")
-local TextBox_4 = Instance.new("TextBox")
 local message = Instance.new("Frame")
 local statusImage_8 = Instance.new("ImageLabel")
-local UIAspectRatioConstraint_145 = Instance.new("UIAspectRatioConstraint")
+local UIAspectRatioConstraint_143 = Instance.new("UIAspectRatioConstraint")
 
 --[[
 	Properties:
 --]]
 
 kr.Name = "kr"
-kr.Parent = (game:GetService("CoreGui") or gethui())
+kr.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 kr.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 kr.ResetOnSpawn = false
 
@@ -2961,73 +2947,6 @@ ImageLabel_30.ScaleType = Enum.ScaleType.Fit
 UIAspectRatioConstraint_90.Parent = ImageLabel_30
 UIAspectRatioConstraint_90.AspectRatio = 0.9444444179534912
 
-CONSOLEBTN.Name = "CONSOLEBTN"
-CONSOLEBTN.Parent = Sidebar
-CONSOLEBTN.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.121569)
-CONSOLEBTN.BorderColor3 = Color3.new(0.0901961, 0.0941176, 0.105882)
-CONSOLEBTN.Position = UDim2.new(0, 7, 0, 147)
-CONSOLEBTN.Size = UDim2.new(0, 124, 0, 40)
-CONSOLEBTN.ZIndex = 999999999
-
-Frame_22.Parent = CONSOLEBTN
-Frame_22.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.137255)
-Frame_22.BorderColor3 = Color3.new(0.117647, 0.117647, 0.137255)
-Frame_22.BorderSizePixel = 0
-Frame_22.Position = UDim2.new(0, 8, 0, 8)
-Frame_22.Size = UDim2.new(0, 24, 0, 24)
-
-ImageLabel_31.Parent = Frame_22
-ImageLabel_31.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_31.BackgroundTransparency = 1
-ImageLabel_31.Position = UDim2.new(0, 3, 0, 4)
-ImageLabel_31.Size = UDim2.new(0, 18, 0, 16)
-ImageLabel_31.ZIndex = 99
-ImageLabel_31.Image = "rbxassetid://13788438835"
-
-ImageLabel_32.Parent = Frame_22
-ImageLabel_32.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_32.BackgroundTransparency = 1
-ImageLabel_32.Position = UDim2.new(0, 3, 0, 4)
-ImageLabel_32.Size = UDim2.new(0, 18, 0, 16)
-ImageLabel_32.ZIndex = 99
-ImageLabel_32.Image = "rbxassetid://13788438835"
-
-TextLabel_57.Parent = CONSOLEBTN
-TextLabel_57.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_57.BackgroundTransparency = 1
-TextLabel_57.Position = UDim2.new(0, 38, 0, 7)
-TextLabel_57.Size = UDim2.new(0, 68, 0, 25)
-TextLabel_57.Font = Enum.Font.Arial
-TextLabel_57.Text = "Console"
-TextLabel_57.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_57.TextScaled = true
-TextLabel_57.TextSize = 13
-TextLabel_57.TextWrapped = true
-
-UITextSizeConstraint_41.Parent = TextLabel_57
-UITextSizeConstraint_41.MaxTextSize = 13
-
-TextButton_11.Parent = CONSOLEBTN
-TextButton_11.BackgroundColor3 = Color3.new(1, 1, 1)
-TextButton_11.BackgroundTransparency = 1
-TextButton_11.Position = UDim2.new(0, -11, 0, 0)
-TextButton_11.Size = UDim2.new(0, 142, 0, 43)
-TextButton_11.Font = Enum.Font.SourceSans
-TextButton_11.Text = ""
-TextButton_11.TextColor3 = Color3.new(0, 0, 0)
-TextButton_11.TextScaled = true
-TextButton_11.TextSize = 14
-TextButton_11.TextWrapped = true
-
-UIAspectRatioConstraint_91.Parent = TextButton_11
-UIAspectRatioConstraint_91.AspectRatio = 3.302325487136841
-
-UITextSizeConstraint_42.Parent = TextButton_11
-UITextSizeConstraint_42.MaxTextSize = 14
-
-UIAspectRatioConstraint_92.Parent = CONSOLEBTN
-UIAspectRatioConstraint_92.AspectRatio = 3.0999999046325684
-
 SidebarH.Name = "SidebarH"
 SidebarH.Parent = MainMenu
 SidebarH.BackgroundColor3 = Color3.new(0.0901961, 0.0941176, 0.105882)
@@ -3035,8 +2954,8 @@ SidebarH.Position = UDim2.new(0, 139, 0, 51)
 SidebarH.Size = UDim2.new(0, 5, 0, 275)
 SidebarH.ZIndex = 4
 
-UIAspectRatioConstraint_93.Parent = SidebarH
-UIAspectRatioConstraint_93.AspectRatio = 0.0181818176060915
+UIAspectRatioConstraint_91.Parent = SidebarH
+UIAspectRatioConstraint_91.AspectRatio = 0.0181818176060915
 
 Topbar.Name = "Topbar"
 Topbar.Parent = MainMenu
@@ -3056,87 +2975,87 @@ closeBtn.Size = UDim2.new(0, 25, 0, 26)
 closeBtn.ZIndex = 999999999
 closeBtn.Image = "http://www.roblox.com/asset/?id=6031094678"
 
-UIAspectRatioConstraint_94.Parent = closeBtn
+UIAspectRatioConstraint_92.Parent = closeBtn
+
+TextLabel_57.Parent = Topbar
+TextLabel_57.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_57.BackgroundTransparency = 2
+TextLabel_57.Position = UDim2.new(0, 40, 0, 17)
+TextLabel_57.Size = UDim2.new(0, 77, 0, 20)
+TextLabel_57.ZIndex = 999999999
+TextLabel_57.Font = Enum.Font.GothamBold
+TextLabel_57.Text = "Krypton"
+TextLabel_57.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_57.TextSize = 19
+
+ImageLabel_31.Parent = Topbar
+ImageLabel_31.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_31.BackgroundTransparency = 1
+ImageLabel_31.Position = UDim2.new(0, 271, 0, 17)
+ImageLabel_31.Size = UDim2.new(0, 15, 0, 18)
+ImageLabel_31.ZIndex = 999999999
+ImageLabel_31.Image = "http://www.roblox.com/asset/?id=6034983856"
+ImageLabel_31.ImageColor3 = Color3.new(0.839216, 0.847059, 0.886275)
+ImageLabel_31.ScaleType = Enum.ScaleType.Fit
+
+UIAspectRatioConstraint_93.Parent = ImageLabel_31
 
 TextLabel_58.Parent = Topbar
 TextLabel_58.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_58.BackgroundTransparency = 2
-TextLabel_58.Position = UDim2.new(0, 40, 0, 17)
-TextLabel_58.Size = UDim2.new(0, 77, 0, 20)
+TextLabel_58.BackgroundTransparency = 1
+TextLabel_58.Position = UDim2.new(0, 368, 0, 17)
+TextLabel_58.Size = UDim2.new(0, 107, 0, 16)
 TextLabel_58.ZIndex = 999999999
-TextLabel_58.Font = Enum.Font.GothamBold
-TextLabel_58.Text = "Krypton"
-TextLabel_58.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_58.TextSize = 19
+TextLabel_58.Font = Enum.Font.ArialBold
+TextLabel_58.Text = "Never"
+TextLabel_58.TextColor3 = Color3.new(0.815686, 0.815686, 0.815686)
+TextLabel_58.TextSize = 15
+TextLabel_58.TextWrapped = true
 
-ImageLabel_33.Parent = Topbar
-ImageLabel_33.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_33.BackgroundTransparency = 1
-ImageLabel_33.Position = UDim2.new(0, 271, 0, 17)
-ImageLabel_33.Size = UDim2.new(0, 15, 0, 18)
-ImageLabel_33.ZIndex = 999999999
-ImageLabel_33.Image = "http://www.roblox.com/asset/?id=6034983856"
-ImageLabel_33.ImageColor3 = Color3.new(0.839216, 0.847059, 0.886275)
-ImageLabel_33.ScaleType = Enum.ScaleType.Fit
-
-UIAspectRatioConstraint_95.Parent = ImageLabel_33
+ImageLabel_32.Parent = Topbar
+ImageLabel_32.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_32.BackgroundTransparency = 1
+ImageLabel_32.Position = UDim2.new(0, 13, 0, 14)
+ImageLabel_32.Size = UDim2.new(0, 19, 0, 22)
+ImageLabel_32.ZIndex = 999999999
+ImageLabel_32.Image = "rbxassetid://13609494314"
 
 TextLabel_59.Parent = Topbar
 TextLabel_59.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_59.BackgroundTransparency = 1
-TextLabel_59.Position = UDim2.new(0, 368, 0, 17)
-TextLabel_59.Size = UDim2.new(0, 107, 0, 16)
+TextLabel_59.Position = UDim2.new(0, 286, 0, 15)
+TextLabel_59.Size = UDim2.new(0, 118, 0, 19)
 TextLabel_59.ZIndex = 999999999
-TextLabel_59.Font = Enum.Font.ArialBold
-TextLabel_59.Text = "Never"
-TextLabel_59.TextColor3 = Color3.new(0.815686, 0.815686, 0.815686)
-TextLabel_59.TextSize = 15
+TextLabel_59.Font = Enum.Font.Gotham
+TextLabel_59.Text = "Time Remaining:"
+TextLabel_59.TextColor3 = Color3.new(0.94902, 0.956863, 1)
+TextLabel_59.TextSize = 14
 TextLabel_59.TextWrapped = true
 
-ImageLabel_34.Parent = Topbar
-ImageLabel_34.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_34.BackgroundTransparency = 1
-ImageLabel_34.Position = UDim2.new(0, 13, 0, 14)
-ImageLabel_34.Size = UDim2.new(0, 19, 0, 22)
-ImageLabel_34.ZIndex = 999999999
-ImageLabel_34.Image = "rbxassetid://13609494314"
-
 TextLabel_60.Parent = Topbar
-TextLabel_60.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_60.BackgroundColor3 = Color3.new(0.282353, 0.192157, 0.0509804)
 TextLabel_60.BackgroundTransparency = 1
-TextLabel_60.Position = UDim2.new(0, 286, 0, 15)
-TextLabel_60.Size = UDim2.new(0, 118, 0, 19)
+TextLabel_60.BorderSizePixel = 0
+TextLabel_60.Position = UDim2.new(0, 117, 0, 21)
+TextLabel_60.Size = UDim2.new(0, 62, 0, 15)
 TextLabel_60.ZIndex = 999999999
-TextLabel_60.Font = Enum.Font.Gotham
-TextLabel_60.Text = "Time Remaining:"
-TextLabel_60.TextColor3 = Color3.new(0.94902, 0.956863, 1)
-TextLabel_60.TextSize = 14
+TextLabel_60.Font = Enum.Font.GothamBold
+TextLabel_60.Text = "v.1.1.1-alpha"
+TextLabel_60.TextColor3 = Color3.new(0.639216, 0.647059, 0.678431)
+TextLabel_60.TextSize = 11
 TextLabel_60.TextWrapped = true
 
 TextLabel_61.Parent = Topbar
 TextLabel_61.BackgroundColor3 = Color3.new(0.282353, 0.192157, 0.0509804)
-TextLabel_61.BackgroundTransparency = 1
 TextLabel_61.BorderSizePixel = 0
-TextLabel_61.Position = UDim2.new(0, 117, 0, 21)
+TextLabel_61.Position = UDim2.new(0, 120, 0, 21)
 TextLabel_61.Size = UDim2.new(0, 62, 0, 15)
 TextLabel_61.ZIndex = 999999999
 TextLabel_61.Font = Enum.Font.GothamBold
-TextLabel_61.Text = "v.1.1.1-alpha"
-TextLabel_61.TextColor3 = Color3.new(0.639216, 0.647059, 0.678431)
+TextLabel_61.Text = "v.1.2-alpha"
+TextLabel_61.TextColor3 = Color3.new(1, 0.917647, 0.611765)
 TextLabel_61.TextSize = 11
 TextLabel_61.TextWrapped = true
-
-TextLabel_62.Parent = Topbar
-TextLabel_62.BackgroundColor3 = Color3.new(0.282353, 0.192157, 0.0509804)
-TextLabel_62.BorderSizePixel = 0
-TextLabel_62.Position = UDim2.new(0, 120, 0, 21)
-TextLabel_62.Size = UDim2.new(0, 62, 0, 15)
-TextLabel_62.ZIndex = 999999999
-TextLabel_62.Font = Enum.Font.GothamBold
-TextLabel_62.Text = "v.1.2-alpha"
-TextLabel_62.TextColor3 = Color3.new(1, 0.917647, 0.611765)
-TextLabel_62.TextSize = 11
-TextLabel_62.TextWrapped = true
 
 hidebtn.Name = "hidebtn"
 hidebtn.Parent = Topbar
@@ -3163,8 +3082,8 @@ TopbarH.Position = UDim2.new(0, 18, 0, 54)
 TopbarH.Size = UDim2.new(0, 520, 0, 3)
 TopbarH.ZIndex = 6
 
-UIAspectRatioConstraint_96.Parent = TopbarH
-UIAspectRatioConstraint_96.AspectRatio = 173.3333282470703
+UIAspectRatioConstraint_94.Parent = TopbarH
+UIAspectRatioConstraint_94.AspectRatio = 173.3333282470703
 
 TopbarH2.Name = "TopbarH2"
 TopbarH2.Parent = MainMenu
@@ -3181,8 +3100,8 @@ WelcomeWindow.Size = UDim2.new(0, 554, 0, 339)
 WelcomeWindow.Visible = false
 WelcomeWindow.ZIndex = 999999999
 
-UIAspectRatioConstraint_97.Parent = WelcomeWindow
-UIAspectRatioConstraint_97.AspectRatio = 1.6342183351516724
+UIAspectRatioConstraint_95.Parent = WelcomeWindow
+UIAspectRatioConstraint_95.AspectRatio = 1.6342183351516724
 
 welcomerFrame.Name = "welcomerFrame"
 welcomerFrame.Parent = WelcomeWindow
@@ -3192,24 +3111,24 @@ welcomerFrame.Position = UDim2.new(0, 62, 0, 33)
 welcomerFrame.Size = UDim2.new(0, 430, 0, 287)
 welcomerFrame.ZIndex = 999999999
 
-TextLabel_63.Parent = welcomerFrame
-TextLabel_63.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_63.BackgroundTransparency = 1
-TextLabel_63.Position = UDim2.new(0, 103, 0, 6)
-TextLabel_63.Size = UDim2.new(0, 268, 0, 29)
-TextLabel_63.ZIndex = 999999999
-TextLabel_63.Font = Enum.Font.GothamBold
-TextLabel_63.Text = "Welcome to Krypton!"
-TextLabel_63.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_63.TextScaled = true
-TextLabel_63.TextSize = 16
-TextLabel_63.TextWrapped = true
+TextLabel_62.Parent = welcomerFrame
+TextLabel_62.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_62.BackgroundTransparency = 1
+TextLabel_62.Position = UDim2.new(0, 103, 0, 6)
+TextLabel_62.Size = UDim2.new(0, 268, 0, 29)
+TextLabel_62.ZIndex = 999999999
+TextLabel_62.Font = Enum.Font.GothamBold
+TextLabel_62.Text = "Welcome to Krypton!"
+TextLabel_62.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_62.TextScaled = true
+TextLabel_62.TextSize = 16
+TextLabel_62.TextWrapped = true
 
-UITextSizeConstraint_43.Parent = TextLabel_63
-UITextSizeConstraint_43.MaxTextSize = 16
+UITextSizeConstraint_41.Parent = TextLabel_62
+UITextSizeConstraint_41.MaxTextSize = 16
 
-UIAspectRatioConstraint_98.Parent = TextLabel_63
-UIAspectRatioConstraint_98.AspectRatio = 8.966666221618652
+UIAspectRatioConstraint_96.Parent = TextLabel_62
+UIAspectRatioConstraint_96.AspectRatio = 8.966666221618652
 
 Page2.Name = "Page2"
 Page2.Parent = welcomerFrame
@@ -3219,12 +3138,33 @@ Page2.Position = UDim2.new(0, 17, 0, 55)
 Page2.Size = UDim2.new(0, 375, 0, 186)
 Page2.ZIndex = 999999999
 
+ImageLabel_33.Parent = Page2
+ImageLabel_33.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_33.BackgroundTransparency = 1
+ImageLabel_33.Position = UDim2.new(0, 19, 0, 60)
+ImageLabel_33.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_33.ZIndex = 999999999
+ImageLabel_33.Image = "rbxassetid://13618770731"
+ImageLabel_33.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
+
+UIAspectRatioConstraint_97.Parent = ImageLabel_33
+
+ImageLabel_34.Parent = Page2
+ImageLabel_34.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_34.BackgroundTransparency = 1
+ImageLabel_34.Position = UDim2.new(0, 199, 0, 65)
+ImageLabel_34.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_34.ZIndex = 999999999
+ImageLabel_34.Image = "rbxassetid://13618770731"
+ImageLabel_34.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
+
+UIAspectRatioConstraint_98.Parent = ImageLabel_34
+
 ImageLabel_35.Parent = Page2
 ImageLabel_35.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_35.BackgroundTransparency = 1
-ImageLabel_35.Position = UDim2.new(0, 19, 0, 60)
+ImageLabel_35.Position = UDim2.new(0, 268, 0, 2)
 ImageLabel_35.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_35.ZIndex = 999999999
 ImageLabel_35.Image = "rbxassetid://13618770731"
 ImageLabel_35.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
@@ -3233,9 +3173,8 @@ UIAspectRatioConstraint_99.Parent = ImageLabel_35
 ImageLabel_36.Parent = Page2
 ImageLabel_36.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_36.BackgroundTransparency = 1
-ImageLabel_36.Position = UDim2.new(0, 199, 0, 65)
+ImageLabel_36.Position = UDim2.new(0, 47, 0, -1)
 ImageLabel_36.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_36.ZIndex = 999999999
 ImageLabel_36.Image = "rbxassetid://13618770731"
 ImageLabel_36.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
@@ -3244,7 +3183,7 @@ UIAspectRatioConstraint_100.Parent = ImageLabel_36
 ImageLabel_37.Parent = Page2
 ImageLabel_37.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_37.BackgroundTransparency = 1
-ImageLabel_37.Position = UDim2.new(0, 268, 0, 2)
+ImageLabel_37.Position = UDim2.new(0, 299, 0, 120)
 ImageLabel_37.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_37.Image = "rbxassetid://13618770731"
 ImageLabel_37.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
@@ -3254,7 +3193,7 @@ UIAspectRatioConstraint_101.Parent = ImageLabel_37
 ImageLabel_38.Parent = Page2
 ImageLabel_38.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_38.BackgroundTransparency = 1
-ImageLabel_38.Position = UDim2.new(0, 47, 0, -1)
+ImageLabel_38.Position = UDim2.new(0, -2, 0, 164)
 ImageLabel_38.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_38.Image = "rbxassetid://13618770731"
 ImageLabel_38.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
@@ -3264,7 +3203,7 @@ UIAspectRatioConstraint_102.Parent = ImageLabel_38
 ImageLabel_39.Parent = Page2
 ImageLabel_39.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_39.BackgroundTransparency = 1
-ImageLabel_39.Position = UDim2.new(0, 299, 0, 120)
+ImageLabel_39.Position = UDim2.new(0, -2, 0, 164)
 ImageLabel_39.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_39.Image = "rbxassetid://13618770731"
 ImageLabel_39.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
@@ -3274,8 +3213,9 @@ UIAspectRatioConstraint_103.Parent = ImageLabel_39
 ImageLabel_40.Parent = Page2
 ImageLabel_40.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_40.BackgroundTransparency = 1
-ImageLabel_40.Position = UDim2.new(0, -2, 0, 164)
+ImageLabel_40.Position = UDim2.new(0, 323, 0, -52)
 ImageLabel_40.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_40.ZIndex = 999999999
 ImageLabel_40.Image = "rbxassetid://13618770731"
 ImageLabel_40.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
@@ -3284,7 +3224,7 @@ UIAspectRatioConstraint_104.Parent = ImageLabel_40
 ImageLabel_41.Parent = Page2
 ImageLabel_41.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_41.BackgroundTransparency = 1
-ImageLabel_41.Position = UDim2.new(0, -2, 0, 164)
+ImageLabel_41.Position = UDim2.new(0, 123, 0, 19)
 ImageLabel_41.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_41.Image = "rbxassetid://13618770731"
 ImageLabel_41.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
@@ -3294,7 +3234,7 @@ UIAspectRatioConstraint_105.Parent = ImageLabel_41
 ImageLabel_42.Parent = Page2
 ImageLabel_42.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_42.BackgroundTransparency = 1
-ImageLabel_42.Position = UDim2.new(0, 323, 0, -52)
+ImageLabel_42.Position = UDim2.new(0, 20, 0, -73)
 ImageLabel_42.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_42.ZIndex = 999999999
 ImageLabel_42.Image = "rbxassetid://13618770731"
@@ -3305,8 +3245,9 @@ UIAspectRatioConstraint_106.Parent = ImageLabel_42
 ImageLabel_43.Parent = Page2
 ImageLabel_43.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_43.BackgroundTransparency = 1
-ImageLabel_43.Position = UDim2.new(0, 123, 0, 19)
+ImageLabel_43.Position = UDim2.new(0, 164, 0, 148)
 ImageLabel_43.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_43.ZIndex = 999999999
 ImageLabel_43.Image = "rbxassetid://13618770731"
 ImageLabel_43.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
@@ -3315,7 +3256,7 @@ UIAspectRatioConstraint_107.Parent = ImageLabel_43
 ImageLabel_44.Parent = Page2
 ImageLabel_44.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_44.BackgroundTransparency = 1
-ImageLabel_44.Position = UDim2.new(0, 20, 0, -73)
+ImageLabel_44.Position = UDim2.new(0, 187, 0, -40)
 ImageLabel_44.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_44.ZIndex = 999999999
 ImageLabel_44.Image = "rbxassetid://13618770731"
@@ -3326,7 +3267,7 @@ UIAspectRatioConstraint_108.Parent = ImageLabel_44
 ImageLabel_45.Parent = Page2
 ImageLabel_45.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_45.BackgroundTransparency = 1
-ImageLabel_45.Position = UDim2.new(0, 164, 0, 148)
+ImageLabel_45.Position = UDim2.new(0, -23, 0, -33)
 ImageLabel_45.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_45.ZIndex = 999999999
 ImageLabel_45.Image = "rbxassetid://13618770731"
@@ -3334,162 +3275,159 @@ ImageLabel_45.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
 UIAspectRatioConstraint_109.Parent = ImageLabel_45
 
+Frame_22.Parent = Page2
+Frame_22.BackgroundColor3 = Color3.new(0.121569, 0.12549, 0.141176)
+Frame_22.BorderSizePixel = 0
+Frame_22.Position = UDim2.new(0, 346, 0, -57)
+Frame_22.Size = UDim2.new(0, 66, 0, 290)
+Frame_22.ZIndex = 999999999
+
+UIAspectRatioConstraint_110.Parent = Frame_22
+UIAspectRatioConstraint_110.AspectRatio = 0.22758620977401733
+
 ImageLabel_46.Parent = Page2
 ImageLabel_46.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_46.BackgroundTransparency = 1
-ImageLabel_46.Position = UDim2.new(0, 187, 0, -40)
+ImageLabel_46.Position = UDim2.new(0, 76, 0, 101)
 ImageLabel_46.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_46.ZIndex = 999999999
 ImageLabel_46.Image = "rbxassetid://13618770731"
 ImageLabel_46.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
-UIAspectRatioConstraint_110.Parent = ImageLabel_46
+UIAspectRatioConstraint_111.Parent = ImageLabel_46
 
 ImageLabel_47.Parent = Page2
 ImageLabel_47.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_47.BackgroundTransparency = 1
-ImageLabel_47.Position = UDim2.new(0, -23, 0, -33)
+ImageLabel_47.Position = UDim2.new(0, 58, 0, 203)
 ImageLabel_47.Size = UDim2.new(0, 41, 0, 41)
 ImageLabel_47.ZIndex = 999999999
 ImageLabel_47.Image = "rbxassetid://13618770731"
 ImageLabel_47.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
-UIAspectRatioConstraint_111.Parent = ImageLabel_47
+UIAspectRatioConstraint_112.Parent = ImageLabel_47
 
 Frame_23.Parent = Page2
 Frame_23.BackgroundColor3 = Color3.new(0.121569, 0.12549, 0.141176)
 Frame_23.BorderSizePixel = 0
-Frame_23.Position = UDim2.new(0, 346, 0, -57)
-Frame_23.Size = UDim2.new(0, 66, 0, 290)
+Frame_23.Position = UDim2.new(0, 123, 0, -57)
+Frame_23.Size = UDim2.new(0, 266, 0, 297)
 Frame_23.ZIndex = 999999999
 
-UIAspectRatioConstraint_112.Parent = Frame_23
-UIAspectRatioConstraint_112.AspectRatio = 0.22758620977401733
+TextLabel_63.Parent = Frame_23
+TextLabel_63.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_63.BackgroundTransparency = 1
+TextLabel_63.Position = UDim2.new(0, 5, 0, 44)
+TextLabel_63.Size = UDim2.new(0, 201, 0, 15)
+TextLabel_63.ZIndex = 999999999
+TextLabel_63.Font = Enum.Font.Gotham
+TextLabel_63.Text = "We would like to thank the"
+TextLabel_63.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_63.TextScaled = true
+TextLabel_63.TextSize = 14
+TextLabel_63.TextWrapped = true
 
-ImageLabel_48.Parent = Page2
-ImageLabel_48.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_48.BackgroundTransparency = 1
-ImageLabel_48.Position = UDim2.new(0, 76, 0, 101)
-ImageLabel_48.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_48.ZIndex = 999999999
-ImageLabel_48.Image = "rbxassetid://13618770731"
-ImageLabel_48.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
+UIAspectRatioConstraint_113.Parent = TextLabel_63
+UIAspectRatioConstraint_113.AspectRatio = 13.399999618530273
 
-UIAspectRatioConstraint_113.Parent = ImageLabel_48
+UITextSizeConstraint_42.Parent = TextLabel_63
+UITextSizeConstraint_42.MaxTextSize = 14
 
-ImageLabel_49.Parent = Page2
-ImageLabel_49.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_49.BackgroundTransparency = 1
-ImageLabel_49.Position = UDim2.new(0, 58, 0, 203)
-ImageLabel_49.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_49.ZIndex = 999999999
-ImageLabel_49.Image = "rbxassetid://13618770731"
-ImageLabel_49.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
-
-UIAspectRatioConstraint_114.Parent = ImageLabel_49
-
-Frame_24.Parent = Page2
-Frame_24.BackgroundColor3 = Color3.new(0.121569, 0.12549, 0.141176)
-Frame_24.BorderSizePixel = 0
-Frame_24.Position = UDim2.new(0, 123, 0, -57)
-Frame_24.Size = UDim2.new(0, 266, 0, 297)
-Frame_24.ZIndex = 999999999
-
-TextLabel_64.Parent = Frame_24
+TextLabel_64.Parent = Frame_23
 TextLabel_64.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_64.BackgroundTransparency = 1
-TextLabel_64.Position = UDim2.new(0, 5, 0, 44)
-TextLabel_64.Size = UDim2.new(0, 201, 0, 15)
+TextLabel_64.Position = UDim2.new(0, 377, 0, 128)
+TextLabel_64.Size = UDim2.new(0, 23, 0, 22)
 TextLabel_64.ZIndex = 999999999
-TextLabel_64.Font = Enum.Font.Gotham
-TextLabel_64.Text = "We would like to thank the"
-TextLabel_64.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_64.Font = Enum.Font.GothamBold
+TextLabel_64.Text = ","
+TextLabel_64.TextColor3 = Color3.new(0.796079, 0.796079, 0.796079)
 TextLabel_64.TextScaled = true
 TextLabel_64.TextSize = 14
 TextLabel_64.TextWrapped = true
 
-UIAspectRatioConstraint_115.Parent = TextLabel_64
-UIAspectRatioConstraint_115.AspectRatio = 13.399999618530273
+UIAspectRatioConstraint_114.Parent = TextLabel_64
+UIAspectRatioConstraint_114.AspectRatio = 1.045454502105713
 
-UITextSizeConstraint_44.Parent = TextLabel_64
-UITextSizeConstraint_44.MaxTextSize = 14
+UITextSizeConstraint_43.Parent = TextLabel_64
+UITextSizeConstraint_43.MaxTextSize = 14
 
-TextLabel_65.Parent = Frame_24
+TextLabel_65.Parent = Frame_23
 TextLabel_65.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_65.BackgroundTransparency = 1
-TextLabel_65.Position = UDim2.new(0, 377, 0, 128)
-TextLabel_65.Size = UDim2.new(0, 23, 0, 22)
+TextLabel_65.Position = UDim2.new(0, 323, 0, 42)
+TextLabel_65.Size = UDim2.new(0, 56, 0, 22)
 TextLabel_65.ZIndex = 999999999
 TextLabel_65.Font = Enum.Font.GothamBold
-TextLabel_65.Text = ","
-TextLabel_65.TextColor3 = Color3.new(0.796079, 0.796079, 0.796079)
+TextLabel_65.Text = "aspect"
+TextLabel_65.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_65.TextScaled = true
 TextLabel_65.TextSize = 14
 TextLabel_65.TextWrapped = true
 
-UIAspectRatioConstraint_116.Parent = TextLabel_65
-UIAspectRatioConstraint_116.AspectRatio = 1.045454502105713
+UIAspectRatioConstraint_115.Parent = TextLabel_65
+UIAspectRatioConstraint_115.AspectRatio = 2.545454502105713
 
-UITextSizeConstraint_45.Parent = TextLabel_65
-UITextSizeConstraint_45.MaxTextSize = 14
+UITextSizeConstraint_44.Parent = TextLabel_65
+UITextSizeConstraint_44.MaxTextSize = 14
 
-TextLabel_66.Parent = Frame_24
+TextLabel_66.Parent = Frame_23
 TextLabel_66.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_66.BackgroundTransparency = 1
-TextLabel_66.Position = UDim2.new(0, 323, 0, 42)
-TextLabel_66.Size = UDim2.new(0, 56, 0, 22)
+TextLabel_66.Position = UDim2.new(0, 163, 0, 44)
+TextLabel_66.Size = UDim2.new(0, 141, 0, 14)
 TextLabel_66.ZIndex = 999999999
 TextLabel_66.Font = Enum.Font.GothamBold
-TextLabel_66.Text = "aspect"
+TextLabel_66.Text = "Hydrogen-"
 TextLabel_66.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_66.TextScaled = true
 TextLabel_66.TextSize = 14
 TextLabel_66.TextWrapped = true
 
-UIAspectRatioConstraint_117.Parent = TextLabel_66
-UIAspectRatioConstraint_117.AspectRatio = 2.545454502105713
+UIAspectRatioConstraint_116.Parent = TextLabel_66
+UIAspectRatioConstraint_116.AspectRatio = 10.071428298950195
 
-UITextSizeConstraint_46.Parent = TextLabel_66
-UITextSizeConstraint_46.MaxTextSize = 14
+UITextSizeConstraint_45.Parent = TextLabel_66
+UITextSizeConstraint_45.MaxTextSize = 14
 
-TextLabel_67.Parent = Frame_24
+TextLabel_67.Parent = Frame_23
 TextLabel_67.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_67.BackgroundTransparency = 1
-TextLabel_67.Position = UDim2.new(0, 163, 0, 44)
-TextLabel_67.Size = UDim2.new(0, 141, 0, 14)
+TextLabel_67.Position = UDim2.new(0, 363, 0, 41)
+TextLabel_67.Size = UDim2.new(0, 25, 0, 25)
 TextLabel_67.ZIndex = 999999999
-TextLabel_67.Font = Enum.Font.GothamBold
-TextLabel_67.Text = "Hydrogen-"
-TextLabel_67.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
+TextLabel_67.Font = Enum.Font.Gotham
+TextLabel_67.Text = ","
+TextLabel_67.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_67.TextScaled = true
 TextLabel_67.TextSize = 14
 TextLabel_67.TextWrapped = true
 
-UIAspectRatioConstraint_118.Parent = TextLabel_67
-UIAspectRatioConstraint_118.AspectRatio = 10.071428298950195
+UIAspectRatioConstraint_117.Parent = TextLabel_67
 
-UITextSizeConstraint_47.Parent = TextLabel_67
-UITextSizeConstraint_47.MaxTextSize = 14
+UITextSizeConstraint_46.Parent = TextLabel_67
+UITextSizeConstraint_46.MaxTextSize = 14
 
-TextLabel_68.Parent = Frame_24
+TextLabel_68.Parent = Frame_23
 TextLabel_68.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_68.BackgroundTransparency = 1
-TextLabel_68.Position = UDim2.new(0, 363, 0, 41)
-TextLabel_68.Size = UDim2.new(0, 25, 0, 25)
+TextLabel_68.Position = UDim2.new(0, 290, 0, 46)
+TextLabel_68.Size = UDim2.new(0, 37, 0, 13)
 TextLabel_68.ZIndex = 999999999
 TextLabel_68.Font = Enum.Font.Gotham
-TextLabel_68.Text = ","
+TextLabel_68.Text = ", and"
 TextLabel_68.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_68.TextScaled = true
 TextLabel_68.TextSize = 14
 TextLabel_68.TextWrapped = true
 
-UIAspectRatioConstraint_119.Parent = TextLabel_68
+UIAspectRatioConstraint_118.Parent = TextLabel_68
+UIAspectRatioConstraint_118.AspectRatio = 2.7142856121063232
 
-UITextSizeConstraint_48.Parent = TextLabel_68
-UITextSizeConstraint_48.MaxTextSize = 14
+UITextSizeConstraint_47.Parent = TextLabel_68
+UITextSizeConstraint_47.MaxTextSize = 14
 
-TextLabel_69.Parent = Frame_24
+TextLabel_69.Parent = Frame_23
 TextLabel_69.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_69.BackgroundTransparency = 1
 TextLabel_69.Position = UDim2.new(0, 290, 0, 46)
@@ -3502,158 +3440,139 @@ TextLabel_69.TextScaled = true
 TextLabel_69.TextSize = 14
 TextLabel_69.TextWrapped = true
 
-UIAspectRatioConstraint_120.Parent = TextLabel_69
-UIAspectRatioConstraint_120.AspectRatio = 2.7142856121063232
+UIAspectRatioConstraint_119.Parent = TextLabel_69
+UIAspectRatioConstraint_119.AspectRatio = 2.7142856121063232
 
-UITextSizeConstraint_49.Parent = TextLabel_69
-UITextSizeConstraint_49.MaxTextSize = 14
+UITextSizeConstraint_48.Parent = TextLabel_69
+UITextSizeConstraint_48.MaxTextSize = 14
 
-TextLabel_70.Parent = Frame_24
+TextLabel_70.Parent = Frame_23
 TextLabel_70.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_70.BackgroundTransparency = 1
-TextLabel_70.Position = UDim2.new(0, 290, 0, 46)
-TextLabel_70.Size = UDim2.new(0, 37, 0, 13)
+TextLabel_70.Position = UDim2.new(0, 323, 0, 42)
+TextLabel_70.Size = UDim2.new(0, 56, 0, 22)
 TextLabel_70.ZIndex = 999999999
-TextLabel_70.Font = Enum.Font.Gotham
-TextLabel_70.Text = ", and"
-TextLabel_70.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_70.Font = Enum.Font.GothamBold
+TextLabel_70.Text = "aspect"
+TextLabel_70.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_70.TextScaled = true
 TextLabel_70.TextSize = 14
 TextLabel_70.TextWrapped = true
 
-UIAspectRatioConstraint_121.Parent = TextLabel_70
-UIAspectRatioConstraint_121.AspectRatio = 2.7142856121063232
+UIAspectRatioConstraint_120.Parent = TextLabel_70
+UIAspectRatioConstraint_120.AspectRatio = 2.545454502105713
 
-UITextSizeConstraint_50.Parent = TextLabel_70
-UITextSizeConstraint_50.MaxTextSize = 14
+UITextSizeConstraint_49.Parent = TextLabel_70
+UITextSizeConstraint_49.MaxTextSize = 14
 
-TextLabel_71.Parent = Frame_24
+TextLabel_71.Parent = Frame_23
 TextLabel_71.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_71.BackgroundTransparency = 1
-TextLabel_71.Position = UDim2.new(0, 323, 0, 42)
-TextLabel_71.Size = UDim2.new(0, 56, 0, 22)
+TextLabel_71.Position = UDim2.new(0, 72, 0, 59)
+TextLabel_71.Size = UDim2.new(0, 255, 0, 16)
 TextLabel_71.ZIndex = 999999999
-TextLabel_71.Font = Enum.Font.GothamBold
-TextLabel_71.Text = "aspect"
-TextLabel_71.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
+TextLabel_71.Font = Enum.Font.Gotham
+TextLabel_71.Text = ",who made this UI"
+TextLabel_71.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_71.TextScaled = true
 TextLabel_71.TextSize = 14
 TextLabel_71.TextWrapped = true
 
-UIAspectRatioConstraint_122.Parent = TextLabel_71
-UIAspectRatioConstraint_122.AspectRatio = 2.545454502105713
+UITextSizeConstraint_50.Parent = TextLabel_71
+UITextSizeConstraint_50.MaxTextSize = 14
 
-UITextSizeConstraint_51.Parent = TextLabel_71
-UITextSizeConstraint_51.MaxTextSize = 14
-
-TextLabel_72.Parent = Frame_24
+TextLabel_72.Parent = Frame_23
 TextLabel_72.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_72.BackgroundTransparency = 1
-TextLabel_72.Position = UDim2.new(0, 72, 0, 59)
-TextLabel_72.Size = UDim2.new(0, 255, 0, 16)
+TextLabel_72.Position = UDim2.new(0, -16, 0, 60)
+TextLabel_72.Size = UDim2.new(0, 101, 0, 14)
 TextLabel_72.ZIndex = 999999999
-TextLabel_72.Font = Enum.Font.Gotham
-TextLabel_72.Text = ",who made this UI"
-TextLabel_72.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_72.Font = Enum.Font.GothamBold
+TextLabel_72.Text = "Team"
+TextLabel_72.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_72.TextScaled = true
 TextLabel_72.TextSize = 14
 TextLabel_72.TextWrapped = true
 
-UITextSizeConstraint_52.Parent = TextLabel_72
-UITextSizeConstraint_52.MaxTextSize = 14
+UITextSizeConstraint_51.Parent = TextLabel_72
+UITextSizeConstraint_51.MaxTextSize = 14
 
-TextLabel_73.Parent = Frame_24
+TextLabel_73.Parent = Frame_23
 TextLabel_73.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_73.BackgroundTransparency = 1
-TextLabel_73.Position = UDim2.new(0, -16, 0, 60)
-TextLabel_73.Size = UDim2.new(0, 101, 0, 14)
+TextLabel_73.Position = UDim2.new(0, 41, 0, 58)
+TextLabel_73.Size = UDim2.new(0, 58, 0, 20)
 TextLabel_73.ZIndex = 999999999
-TextLabel_73.Font = Enum.Font.GothamBold
-TextLabel_73.Text = "Team"
-TextLabel_73.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
+TextLabel_73.Font = Enum.Font.Gotham
+TextLabel_73.Text = "and"
+TextLabel_73.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_73.TextScaled = true
 TextLabel_73.TextSize = 14
 TextLabel_73.TextWrapped = true
 
-UITextSizeConstraint_53.Parent = TextLabel_73
-UITextSizeConstraint_53.MaxTextSize = 14
+UITextSizeConstraint_52.Parent = TextLabel_73
+UITextSizeConstraint_52.MaxTextSize = 14
 
-TextLabel_74.Parent = Frame_24
+TextLabel_74.Parent = Frame_23
 TextLabel_74.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_74.BackgroundTransparency = 1
-TextLabel_74.Position = UDim2.new(0, 41, 0, 58)
-TextLabel_74.Size = UDim2.new(0, 58, 0, 20)
+TextLabel_74.Position = UDim2.new(0, 68, 0, 60)
+TextLabel_74.Size = UDim2.new(0, 87, 0, 16)
 TextLabel_74.ZIndex = 999999999
-TextLabel_74.Font = Enum.Font.Gotham
-TextLabel_74.Text = "and"
-TextLabel_74.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_74.Font = Enum.Font.GothamBold
+TextLabel_74.Text = "aspect"
+TextLabel_74.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_74.TextScaled = true
 TextLabel_74.TextSize = 14
 TextLabel_74.TextWrapped = true
 
-UITextSizeConstraint_54.Parent = TextLabel_74
-UITextSizeConstraint_54.MaxTextSize = 14
+UITextSizeConstraint_53.Parent = TextLabel_74
+UITextSizeConstraint_53.MaxTextSize = 14
 
-TextLabel_75.Parent = Frame_24
+TextLabel_75.Parent = Frame_23
 TextLabel_75.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_75.BackgroundTransparency = 1
-TextLabel_75.Position = UDim2.new(0, 68, 0, 60)
-TextLabel_75.Size = UDim2.new(0, 87, 0, 16)
+TextLabel_75.Position = UDim2.new(0, 2, 0, 67)
+TextLabel_75.Size = UDim2.new(0, 127, 0, 34)
 TextLabel_75.ZIndex = 999999999
-TextLabel_75.Font = Enum.Font.GothamBold
-TextLabel_75.Text = "aspect"
-TextLabel_75.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
+TextLabel_75.Font = Enum.Font.Gotham
+TextLabel_75.Text = " available to us."
+TextLabel_75.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_75.TextScaled = true
 TextLabel_75.TextSize = 14
 TextLabel_75.TextWrapped = true
 
-UITextSizeConstraint_55.Parent = TextLabel_75
-UITextSizeConstraint_55.MaxTextSize = 14
+UIAspectRatioConstraint_121.Parent = TextLabel_75
+UIAspectRatioConstraint_121.AspectRatio = 3.7352941036224365
 
-TextLabel_76.Parent = Frame_24
-TextLabel_76.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_76.BackgroundTransparency = 1
-TextLabel_76.Position = UDim2.new(0, 2, 0, 67)
-TextLabel_76.Size = UDim2.new(0, 127, 0, 34)
-TextLabel_76.ZIndex = 999999999
-TextLabel_76.Font = Enum.Font.Gotham
-TextLabel_76.Text = " available to us."
-TextLabel_76.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_76.TextScaled = true
-TextLabel_76.TextSize = 14
-TextLabel_76.TextWrapped = true
-
-UIAspectRatioConstraint_123.Parent = TextLabel_76
-UIAspectRatioConstraint_123.AspectRatio = 3.7352941036224365
-
-UITextSizeConstraint_56.Parent = TextLabel_76
-UITextSizeConstraint_56.MaxTextSize = 14
+UITextSizeConstraint_54.Parent = TextLabel_75
+UITextSizeConstraint_54.MaxTextSize = 14
 
 iagreeFr.Name = "iagreeFr"
-iagreeFr.Parent = Frame_24
+iagreeFr.Parent = Frame_23
 iagreeFr.BackgroundColor3 = Color3.new(0.0196078, 0.478431, 0.333333)
 iagreeFr.Position = UDim2.new(0, 153, 0, 240)
 iagreeFr.Size = UDim2.new(0, 117, 0, 36)
 iagreeFr.ZIndex = 999999999
 
-TextLabel_77.Parent = iagreeFr
-TextLabel_77.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_77.BackgroundTransparency = 1
-TextLabel_77.Position = UDim2.new(0, 14, 0, 4)
-TextLabel_77.Size = UDim2.new(0, 91, 0, 27)
-TextLabel_77.ZIndex = 999999999
-TextLabel_77.Font = Enum.Font.GothamBold
-TextLabel_77.Text = "I Agree"
-TextLabel_77.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_77.TextScaled = true
-TextLabel_77.TextSize = 13
-TextLabel_77.TextWrapped = true
+TextLabel_76.Parent = iagreeFr
+TextLabel_76.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_76.BackgroundTransparency = 1
+TextLabel_76.Position = UDim2.new(0, 14, 0, 4)
+TextLabel_76.Size = UDim2.new(0, 91, 0, 27)
+TextLabel_76.ZIndex = 999999999
+TextLabel_76.Font = Enum.Font.GothamBold
+TextLabel_76.Text = "I Agree"
+TextLabel_76.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_76.TextScaled = true
+TextLabel_76.TextSize = 13
+TextLabel_76.TextWrapped = true
 
-UIAspectRatioConstraint_124.Parent = TextLabel_77
-UIAspectRatioConstraint_124.AspectRatio = 3.370370388031006
+UIAspectRatioConstraint_122.Parent = TextLabel_76
+UIAspectRatioConstraint_122.AspectRatio = 3.370370388031006
 
-UITextSizeConstraint_57.Parent = TextLabel_77
-UITextSizeConstraint_57.MaxTextSize = 13
+UITextSizeConstraint_55.Parent = TextLabel_76
+UITextSizeConstraint_55.MaxTextSize = 13
 
 iagree.Name = "iagree"
 iagree.Parent = iagreeFr
@@ -3668,128 +3587,128 @@ iagree.TextScaled = true
 iagree.TextSize = 14
 iagree.TextWrapped = true
 
-UIAspectRatioConstraint_125.Parent = iagree
-UIAspectRatioConstraint_125.AspectRatio = 3.3142857551574707
+UIAspectRatioConstraint_123.Parent = iagree
+UIAspectRatioConstraint_123.AspectRatio = 3.3142857551574707
 
-UITextSizeConstraint_58.Parent = iagree
-UITextSizeConstraint_58.MaxTextSize = 14
+UITextSizeConstraint_56.Parent = iagree
+UITextSizeConstraint_56.MaxTextSize = 14
 
-UIAspectRatioConstraint_126.Parent = iagreeFr
-UIAspectRatioConstraint_126.AspectRatio = 3.25
+UIAspectRatioConstraint_124.Parent = iagreeFr
+UIAspectRatioConstraint_124.AspectRatio = 3.25
 
-TextLabel_78.Parent = Frame_24
+TextLabel_77.Parent = Frame_23
+TextLabel_77.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_77.BackgroundTransparency = 1
+TextLabel_77.Position = UDim2.new(0, 5, 0, 151)
+TextLabel_77.Size = UDim2.new(0, 284, 0, 14)
+TextLabel_77.ZIndex = 999999999
+TextLabel_77.Font = Enum.Font.Gotham
+TextLabel_77.Text = "We have fixed issues and updated some"
+TextLabel_77.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_77.TextScaled = true
+TextLabel_77.TextSize = 14
+TextLabel_77.TextWrapped = true
+
+UITextSizeConstraint_57.Parent = TextLabel_77
+UITextSizeConstraint_57.MaxTextSize = 14
+
+TextLabel_78.Parent = Frame_23
 TextLabel_78.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_78.BackgroundTransparency = 1
-TextLabel_78.Position = UDim2.new(0, 5, 0, 151)
-TextLabel_78.Size = UDim2.new(0, 284, 0, 14)
+TextLabel_78.Position = UDim2.new(0, 5, 0, 165)
+TextLabel_78.Size = UDim2.new(0, 201, 0, 18)
 TextLabel_78.ZIndex = 999999999
-TextLabel_78.Font = Enum.Font.Gotham
-TextLabel_78.Text = "We have fixed issues and updated some"
-TextLabel_78.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_78.Font = Enum.Font.GothamBold
+TextLabel_78.Text = "parts of the user interface."
+TextLabel_78.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
 TextLabel_78.TextScaled = true
 TextLabel_78.TextSize = 14
 TextLabel_78.TextWrapped = true
 
-UITextSizeConstraint_59.Parent = TextLabel_78
-UITextSizeConstraint_59.MaxTextSize = 14
+UITextSizeConstraint_58.Parent = TextLabel_78
+UITextSizeConstraint_58.MaxTextSize = 14
 
-TextLabel_79.Parent = Frame_24
+UIAspectRatioConstraint_125.Parent = Frame_23
+UIAspectRatioConstraint_125.AspectRatio = 0.8956229090690613
+
+TextLabel_79.Parent = Frame_23
 TextLabel_79.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_79.BackgroundTransparency = 1
-TextLabel_79.Position = UDim2.new(0, 5, 0, 165)
-TextLabel_79.Size = UDim2.new(0, 201, 0, 18)
+TextLabel_79.Position = UDim2.new(0, 119, 0, 79)
+TextLabel_79.Size = UDim2.new(0, 158, 0, 36)
 TextLabel_79.ZIndex = 999999999
-TextLabel_79.Font = Enum.Font.GothamBold
-TextLabel_79.Text = "parts of the user interface."
-TextLabel_79.TextColor3 = Color3.new(0.027451, 0.709804, 0.494118)
+TextLabel_79.Font = Enum.Font.Gotham
+TextLabel_79.Text = "(we do not use their API or Original UI. we had the Perms to copy the UI from a Picture and We use our OWN API)"
+TextLabel_79.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_79.TextScaled = true
 TextLabel_79.TextSize = 14
 TextLabel_79.TextWrapped = true
 
-UITextSizeConstraint_60.Parent = TextLabel_79
-UITextSizeConstraint_60.MaxTextSize = 14
+UITextSizeConstraint_59.Parent = TextLabel_79
+UITextSizeConstraint_59.MaxTextSize = 14
 
-UIAspectRatioConstraint_127.Parent = Frame_24
-UIAspectRatioConstraint_127.AspectRatio = 0.8956229090690613
+ImageLabel_48.Parent = Page2
+ImageLabel_48.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_48.BackgroundTransparency = 1
+ImageLabel_48.Position = UDim2.new(0, -32, 0, 92)
+ImageLabel_48.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_48.ZIndex = 999999999
+ImageLabel_48.Image = "rbxassetid://13618770731"
+ImageLabel_48.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
 
-TextLabel_80.Parent = Frame_24
+UIAspectRatioConstraint_126.Parent = ImageLabel_48
+
+UIAspectRatioConstraint_127.Parent = Page2
+UIAspectRatioConstraint_127.AspectRatio = 2.0161290168762207
+
+ImageLabel_49.Parent = Page2
+ImageLabel_49.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_49.BackgroundTransparency = 1
+ImageLabel_49.Position = UDim2.new(0, 74, 0, -55)
+ImageLabel_49.Size = UDim2.new(0, 41, 0, 41)
+ImageLabel_49.ZIndex = 999999999
+ImageLabel_49.Image = "rbxassetid://13618770731"
+ImageLabel_49.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
+
+UIAspectRatioConstraint_128.Parent = ImageLabel_49
+
+TextLabel_80.Parent = welcomerFrame
 TextLabel_80.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_80.BackgroundTransparency = 1
-TextLabel_80.Position = UDim2.new(0, 119, 0, 79)
-TextLabel_80.Size = UDim2.new(0, 158, 0, 36)
+TextLabel_80.Position = UDim2.new(0, 95, 0, 121)
+TextLabel_80.Size = UDim2.new(0, 247, 0, 30)
 TextLabel_80.ZIndex = 999999999
-TextLabel_80.Font = Enum.Font.Gotham
-TextLabel_80.Text = "(we do not use their API or Original UI. we had the Perms to copy the UI from a Picture and We use our OWN API)"
+TextLabel_80.Font = Enum.Font.GothamBold
+TextLabel_80.Text = "V1.2-alpha is out!"
 TextLabel_80.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_80.TextScaled = true
-TextLabel_80.TextSize = 14
+TextLabel_80.TextSize = 16
 TextLabel_80.TextWrapped = true
 
-UITextSizeConstraint_61.Parent = TextLabel_80
-UITextSizeConstraint_61.MaxTextSize = 14
-
-ImageLabel_50.Parent = Page2
-ImageLabel_50.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_50.BackgroundTransparency = 1
-ImageLabel_50.Position = UDim2.new(0, -32, 0, 92)
-ImageLabel_50.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_50.ZIndex = 999999999
-ImageLabel_50.Image = "rbxassetid://13618770731"
-ImageLabel_50.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
-
-UIAspectRatioConstraint_128.Parent = ImageLabel_50
-
-UIAspectRatioConstraint_129.Parent = Page2
-UIAspectRatioConstraint_129.AspectRatio = 2.0161290168762207
-
-ImageLabel_51.Parent = Page2
-ImageLabel_51.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_51.BackgroundTransparency = 1
-ImageLabel_51.Position = UDim2.new(0, 74, 0, -55)
-ImageLabel_51.Size = UDim2.new(0, 41, 0, 41)
-ImageLabel_51.ZIndex = 999999999
-ImageLabel_51.Image = "rbxassetid://13618770731"
-ImageLabel_51.ImageColor3 = Color3.new(0.2, 0.215686, 0.239216)
-
-UIAspectRatioConstraint_130.Parent = ImageLabel_51
+UITextSizeConstraint_60.Parent = TextLabel_80
+UITextSizeConstraint_60.MaxTextSize = 16
 
 TextLabel_81.Parent = welcomerFrame
 TextLabel_81.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_81.BackgroundTransparency = 1
-TextLabel_81.Position = UDim2.new(0, 95, 0, 121)
-TextLabel_81.Size = UDim2.new(0, 247, 0, 30)
+TextLabel_81.Position = UDim2.new(0, 103, 0, 6)
+TextLabel_81.Size = UDim2.new(0, 268, 0, 30)
 TextLabel_81.ZIndex = 999999999
 TextLabel_81.Font = Enum.Font.GothamBold
-TextLabel_81.Text = "V1.2-alpha is out!"
+TextLabel_81.Text = "Welcome to Krypton!"
 TextLabel_81.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_81.TextScaled = true
 TextLabel_81.TextSize = 16
 TextLabel_81.TextWrapped = true
 
-UITextSizeConstraint_62.Parent = TextLabel_81
-UITextSizeConstraint_62.MaxTextSize = 16
+UITextSizeConstraint_61.Parent = TextLabel_81
+UITextSizeConstraint_61.MaxTextSize = 16
 
-TextLabel_82.Parent = welcomerFrame
-TextLabel_82.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_82.BackgroundTransparency = 1
-TextLabel_82.Position = UDim2.new(0, 103, 0, 6)
-TextLabel_82.Size = UDim2.new(0, 268, 0, 30)
-TextLabel_82.ZIndex = 999999999
-TextLabel_82.Font = Enum.Font.GothamBold
-TextLabel_82.Text = "Welcome to Krypton!"
-TextLabel_82.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_82.TextScaled = true
-TextLabel_82.TextSize = 16
-TextLabel_82.TextWrapped = true
+UIAspectRatioConstraint_129.Parent = TextLabel_81
+UIAspectRatioConstraint_129.AspectRatio = 8.933333396911621
 
-UITextSizeConstraint_63.Parent = TextLabel_82
-UITextSizeConstraint_63.MaxTextSize = 16
-
-UIAspectRatioConstraint_131.Parent = TextLabel_82
-UIAspectRatioConstraint_131.AspectRatio = 8.933333396911621
-
-UIAspectRatioConstraint_132.Parent = welcomerFrame
-UIAspectRatioConstraint_132.AspectRatio = 1.4982578754425049
+UIAspectRatioConstraint_130.Parent = welcomerFrame
+UIAspectRatioConstraint_130.AspectRatio = 1.4982578754425049
 
 clearWindow.Name = "clearWindow"
 clearWindow.Parent = MainMenu
@@ -3807,33 +3726,33 @@ clearFrame.Position = UDim2.new(0, 121, 0, 82)
 clearFrame.Size = UDim2.new(0, 346, 0, 173)
 clearFrame.ZIndex = 999999999
 
-Frame_25.Parent = clearFrame
-Frame_25.BackgroundColor3 = Color3.new(0.807843, 0.231373, 0.239216)
-Frame_25.Position = UDim2.new(0, 212, 0, 116)
-Frame_25.Size = UDim2.new(0, 117, 0, 36)
-Frame_25.ZIndex = 999999999
+Frame_24.Parent = clearFrame
+Frame_24.BackgroundColor3 = Color3.new(0.807843, 0.231373, 0.239216)
+Frame_24.Position = UDim2.new(0, 212, 0, 116)
+Frame_24.Size = UDim2.new(0, 117, 0, 36)
+Frame_24.ZIndex = 999999999
 
-TextLabel_83.Parent = Frame_25
-TextLabel_83.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_83.BackgroundTransparency = 1
-TextLabel_83.Position = UDim2.new(0, 14, 0, 4)
-TextLabel_83.Size = UDim2.new(0, 91, 0, 27)
-TextLabel_83.ZIndex = 999999999
-TextLabel_83.Font = Enum.Font.GothamBold
-TextLabel_83.Text = "Clear Editor"
-TextLabel_83.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_83.TextScaled = true
-TextLabel_83.TextSize = 13
-TextLabel_83.TextWrapped = true
+TextLabel_82.Parent = Frame_24
+TextLabel_82.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_82.BackgroundTransparency = 1
+TextLabel_82.Position = UDim2.new(0, 14, 0, 4)
+TextLabel_82.Size = UDim2.new(0, 91, 0, 27)
+TextLabel_82.ZIndex = 999999999
+TextLabel_82.Font = Enum.Font.GothamBold
+TextLabel_82.Text = "Clear Editor"
+TextLabel_82.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_82.TextScaled = true
+TextLabel_82.TextSize = 13
+TextLabel_82.TextWrapped = true
 
-UIAspectRatioConstraint_133.Parent = TextLabel_83
-UIAspectRatioConstraint_133.AspectRatio = 3.370370388031006
+UIAspectRatioConstraint_131.Parent = TextLabel_82
+UIAspectRatioConstraint_131.AspectRatio = 3.370370388031006
 
-UITextSizeConstraint_64.Parent = TextLabel_83
-UITextSizeConstraint_64.MaxTextSize = 13
+UITextSizeConstraint_62.Parent = TextLabel_82
+UITextSizeConstraint_62.MaxTextSize = 13
 
 clear.Name = "clear"
-clear.Parent = Frame_25
+clear.Parent = Frame_24
 clear.BackgroundColor3 = Color3.new(1, 1, 1)
 clear.BackgroundTransparency = 1
 clear.Size = UDim2.new(0, 116, 0, 35)
@@ -3845,115 +3764,115 @@ clear.TextScaled = true
 clear.TextSize = 14
 clear.TextWrapped = true
 
-UIAspectRatioConstraint_134.Parent = clear
-UIAspectRatioConstraint_134.AspectRatio = 3.3142857551574707
+UIAspectRatioConstraint_132.Parent = clear
+UIAspectRatioConstraint_132.AspectRatio = 3.3142857551574707
 
-UITextSizeConstraint_65.Parent = clear
+UITextSizeConstraint_63.Parent = clear
+UITextSizeConstraint_63.MaxTextSize = 14
+
+UIAspectRatioConstraint_133.Parent = Frame_24
+UIAspectRatioConstraint_133.AspectRatio = 3.25
+
+Frame_25.Parent = clearFrame
+Frame_25.BackgroundColor3 = Color3.new(0.14902, 0.14902, 0.172549)
+Frame_25.Position = UDim2.new(0, 108, 0, 118)
+Frame_25.Size = UDim2.new(0, 89, 0, 33)
+Frame_25.ZIndex = 999999999
+
+TextLabel_83.Parent = Frame_25
+TextLabel_83.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel_83.BackgroundTransparency = 1
+TextLabel_83.Position = UDim2.new(0, -1, 0, 4)
+TextLabel_83.Size = UDim2.new(0, 91, 0, 23)
+TextLabel_83.ZIndex = 999999999
+TextLabel_83.Font = Enum.Font.GothamBold
+TextLabel_83.Text = "Cancel"
+TextLabel_83.TextColor3 = Color3.new(1, 1, 1)
+TextLabel_83.TextScaled = true
+TextLabel_83.TextSize = 13
+TextLabel_83.TextWrapped = true
+
+UITextSizeConstraint_64.Parent = TextLabel_83
+UITextSizeConstraint_64.MaxTextSize = 13
+
+TextButton_11.Parent = Frame_25
+TextButton_11.BackgroundColor3 = Color3.new(1, 1, 1)
+TextButton_11.BackgroundTransparency = 1
+TextButton_11.Position = UDim2.new(0, -2, 0, -1)
+TextButton_11.Size = UDim2.new(0, 93, 0, 36)
+TextButton_11.ZIndex = 999999999
+TextButton_11.Font = Enum.Font.GothamBold
+TextButton_11.Text = "  "
+TextButton_11.TextColor3 = Color3.new(0, 0, 0)
+TextButton_11.TextScaled = true
+TextButton_11.TextSize = 14
+TextButton_11.TextWrapped = true
+
+UIAspectRatioConstraint_134.Parent = TextButton_11
+UIAspectRatioConstraint_134.AspectRatio = 2.5833332538604736
+
+UITextSizeConstraint_65.Parent = TextButton_11
 UITextSizeConstraint_65.MaxTextSize = 14
 
 UIAspectRatioConstraint_135.Parent = Frame_25
-UIAspectRatioConstraint_135.AspectRatio = 3.25
+UIAspectRatioConstraint_135.AspectRatio = 2.696969747543335
 
-Frame_26.Parent = clearFrame
-Frame_26.BackgroundColor3 = Color3.new(0.14902, 0.14902, 0.172549)
-Frame_26.Position = UDim2.new(0, 108, 0, 118)
-Frame_26.Size = UDim2.new(0, 89, 0, 33)
-Frame_26.ZIndex = 999999999
-
-TextLabel_84.Parent = Frame_26
+TextLabel_84.Parent = clearFrame
 TextLabel_84.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_84.BackgroundTransparency = 1
-TextLabel_84.Position = UDim2.new(0, -1, 0, 4)
-TextLabel_84.Size = UDim2.new(0, 91, 0, 23)
+TextLabel_84.Position = UDim2.new(0, -29, 0, 8)
+TextLabel_84.Size = UDim2.new(0, 192, 0, 38)
 TextLabel_84.ZIndex = 999999999
-TextLabel_84.Font = Enum.Font.GothamBold
-TextLabel_84.Text = "Cancel"
+TextLabel_84.Font = Enum.Font.Gotham
+TextLabel_84.Text = "Clear Editor"
 TextLabel_84.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_84.TextScaled = true
-TextLabel_84.TextSize = 13
+TextLabel_84.TextSize = 16
 TextLabel_84.TextWrapped = true
 
+UIAspectRatioConstraint_136.Parent = TextLabel_84
+UIAspectRatioConstraint_136.AspectRatio = 5.052631378173828
+
 UITextSizeConstraint_66.Parent = TextLabel_84
-UITextSizeConstraint_66.MaxTextSize = 13
-
-TextButton_12.Parent = Frame_26
-TextButton_12.BackgroundColor3 = Color3.new(1, 1, 1)
-TextButton_12.BackgroundTransparency = 1
-TextButton_12.Position = UDim2.new(0, -2, 0, -1)
-TextButton_12.Size = UDim2.new(0, 93, 0, 36)
-TextButton_12.ZIndex = 999999999
-TextButton_12.Font = Enum.Font.GothamBold
-TextButton_12.Text = "  "
-TextButton_12.TextColor3 = Color3.new(0, 0, 0)
-TextButton_12.TextScaled = true
-TextButton_12.TextSize = 14
-TextButton_12.TextWrapped = true
-
-UIAspectRatioConstraint_136.Parent = TextButton_12
-UIAspectRatioConstraint_136.AspectRatio = 2.5833332538604736
-
-UITextSizeConstraint_67.Parent = TextButton_12
-UITextSizeConstraint_67.MaxTextSize = 14
-
-UIAspectRatioConstraint_137.Parent = Frame_26
-UIAspectRatioConstraint_137.AspectRatio = 2.696969747543335
+UITextSizeConstraint_66.MaxTextSize = 16
 
 TextLabel_85.Parent = clearFrame
 TextLabel_85.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_85.BackgroundTransparency = 1
-TextLabel_85.Position = UDim2.new(0, -29, 0, 8)
-TextLabel_85.Size = UDim2.new(0, 192, 0, 38)
+TextLabel_85.Position = UDim2.new(0, 19, 0, 61)
+TextLabel_85.Size = UDim2.new(0, 314, 0, 15)
 TextLabel_85.ZIndex = 999999999
 TextLabel_85.Font = Enum.Font.Gotham
-TextLabel_85.Text = "Clear Editor"
+TextLabel_85.Text = "Are you sure you want to clear the editor? This"
 TextLabel_85.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_85.TextScaled = true
-TextLabel_85.TextSize = 16
+TextLabel_85.TextSize = 14
 TextLabel_85.TextWrapped = true
 
-UIAspectRatioConstraint_138.Parent = TextLabel_85
-UIAspectRatioConstraint_138.AspectRatio = 5.052631378173828
+UIAspectRatioConstraint_137.Parent = TextLabel_85
+UIAspectRatioConstraint_137.AspectRatio = 20.933332443237305
 
-UITextSizeConstraint_68.Parent = TextLabel_85
-UITextSizeConstraint_68.MaxTextSize = 16
+UITextSizeConstraint_67.Parent = TextLabel_85
+UITextSizeConstraint_67.MaxTextSize = 14
 
 TextLabel_86.Parent = clearFrame
 TextLabel_86.BackgroundColor3 = Color3.new(1, 1, 1)
 TextLabel_86.BackgroundTransparency = 1
-TextLabel_86.Position = UDim2.new(0, 19, 0, 61)
-TextLabel_86.Size = UDim2.new(0, 314, 0, 15)
+TextLabel_86.Position = UDim2.new(0, 20, 0, 61)
+TextLabel_86.Size = UDim2.new(0, 158, 0, 50)
 TextLabel_86.ZIndex = 999999999
 TextLabel_86.Font = Enum.Font.Gotham
-TextLabel_86.Text = "Are you sure you want to clear the editor? This"
+TextLabel_86.Text = "action can't be undone."
 TextLabel_86.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_86.TextScaled = true
 TextLabel_86.TextSize = 14
 TextLabel_86.TextWrapped = true
 
-UIAspectRatioConstraint_139.Parent = TextLabel_86
-UIAspectRatioConstraint_139.AspectRatio = 20.933332443237305
+UIAspectRatioConstraint_138.Parent = TextLabel_86
+UIAspectRatioConstraint_138.AspectRatio = 3.1600000858306885
 
-UITextSizeConstraint_69.Parent = TextLabel_86
-UITextSizeConstraint_69.MaxTextSize = 14
-
-TextLabel_87.Parent = clearFrame
-TextLabel_87.BackgroundColor3 = Color3.new(1, 1, 1)
-TextLabel_87.BackgroundTransparency = 1
-TextLabel_87.Position = UDim2.new(0, 20, 0, 61)
-TextLabel_87.Size = UDim2.new(0, 158, 0, 50)
-TextLabel_87.ZIndex = 999999999
-TextLabel_87.Font = Enum.Font.Gotham
-TextLabel_87.Text = "action can't be undone."
-TextLabel_87.TextColor3 = Color3.new(1, 1, 1)
-TextLabel_87.TextScaled = true
-TextLabel_87.TextSize = 14
-TextLabel_87.TextWrapped = true
-
-UIAspectRatioConstraint_140.Parent = TextLabel_87
-UIAspectRatioConstraint_140.AspectRatio = 3.1600000858306885
-
-UITextSizeConstraint_70.Parent = TextLabel_87
-UITextSizeConstraint_70.MaxTextSize = 14
+UITextSizeConstraint_68.Parent = TextLabel_86
+UITextSizeConstraint_68.MaxTextSize = 14
 
 ImageButton.Parent = clearFrame
 ImageButton.BackgroundColor3 = Color3.new(1, 1, 1)
@@ -3963,13 +3882,13 @@ ImageButton.Size = UDim2.new(0, 18, 0, 18)
 ImageButton.ZIndex = 999999999
 ImageButton.Image = "http://www.roblox.com/asset/?id=6031094678"
 
-UIAspectRatioConstraint_141.Parent = ImageButton
+UIAspectRatioConstraint_139.Parent = ImageButton
 
-UIAspectRatioConstraint_142.Parent = clearFrame
-UIAspectRatioConstraint_142.AspectRatio = 2
+UIAspectRatioConstraint_140.Parent = clearFrame
+UIAspectRatioConstraint_140.AspectRatio = 2
 
-UIAspectRatioConstraint_143.Parent = clearWindow
-UIAspectRatioConstraint_143.AspectRatio = 1.6342183351516724
+UIAspectRatioConstraint_141.Parent = clearWindow
+UIAspectRatioConstraint_141.AspectRatio = 1.6342183351516724
 
 shadow2_3.Name = "shadow2"
 shadow2_3.Parent = MainMenu
@@ -3978,8 +3897,8 @@ shadow2_3.Position = UDim2.new(0, 131, 0, 39)
 shadow2_3.Size = UDim2.new(0, 24, 0, 286)
 shadow2_3.ZIndex = 2
 
-UIAspectRatioConstraint_144.Parent = shadow2_3
-UIAspectRatioConstraint_144.AspectRatio = 0.0839160829782486
+UIAspectRatioConstraint_142.Parent = shadow2_3
+UIAspectRatioConstraint_142.AspectRatio = 0.0839160829782486
 
 ProfilePage.Name = "ProfilePage"
 ProfilePage.Parent = MainMenu
@@ -3989,14 +3908,14 @@ ProfilePage.Position = UDim2.new(0.209386274, 0, 0.120943956, 0)
 ProfilePage.Size = UDim2.new(0, 445, 0, 285)
 ProfilePage.Visible = false
 
-Frame_27.Parent = ProfilePage
-Frame_27.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
-Frame_27.Position = UDim2.new(0.0876404494, 0, 0.0982456133, 0)
-Frame_27.Size = UDim2.new(0, 388, 0, 95)
-Frame_27.ZIndex = 999999999
+Frame_26.Parent = ProfilePage
+Frame_26.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
+Frame_26.Position = UDim2.new(0.0876404494, 0, 0.0982456133, 0)
+Frame_26.Size = UDim2.new(0, 388, 0, 95)
+Frame_26.ZIndex = 999999999
 
 DName_2.Name = "DName"
-DName_2.Parent = Frame_27
+DName_2.Parent = Frame_26
 DName_2.BackgroundColor3 = Color3.new(1, 1, 1)
 DName_2.BackgroundTransparency = 1
 DName_2.ClipsDescendants = true
@@ -4011,7 +3930,7 @@ DName_2.TextWrapped = true
 DName_2.TextXAlignment = Enum.TextXAlignment.Left
 
 statusImage_7.Name = "statusImage"
-statusImage_7.Parent = Frame_27
+statusImage_7.Parent = Frame_26
 statusImage_7.BackgroundColor3 = Color3.new(1, 1, 1)
 statusImage_7.BackgroundTransparency = 1
 statusImage_7.Position = UDim2.new(0, 11, 0, 10)
@@ -4020,81 +3939,45 @@ statusImage_7.ZIndex = 999999999
 statusImage_7.Image = "http://www.roblox.com/asset/?id=6031625146"
 statusImage_7.ImageColor3 = Color3.new(0.027451, 0.670588, 0.466667)
 
-TextLabel_88.Parent = Frame_27
-TextLabel_88.BackgroundColor3 = Color3.new(0.282353, 0.192157, 0.0509804)
-TextLabel_88.BackgroundTransparency = 1
-TextLabel_88.BorderSizePixel = 0
-TextLabel_88.Position = UDim2.new(0, 7, 0, 19)
-TextLabel_88.Size = UDim2.new(0, 64, 0, 20)
-TextLabel_88.ZIndex = 999999999
-TextLabel_88.Font = Enum.Font.GothamBold
-TextLabel_88.Text = "Online"
-TextLabel_88.TextColor3 = Color3.new(0.941177, 0.952941, 1)
-TextLabel_88.TextSize = 12
-TextLabel_88.TextWrapped = true
+TextLabel_87.Parent = Frame_26
+TextLabel_87.BackgroundColor3 = Color3.new(0.282353, 0.192157, 0.0509804)
+TextLabel_87.BackgroundTransparency = 1
+TextLabel_87.BorderSizePixel = 0
+TextLabel_87.Position = UDim2.new(0, 7, 0, 19)
+TextLabel_87.Size = UDim2.new(0, 64, 0, 20)
+TextLabel_87.ZIndex = 999999999
+TextLabel_87.Font = Enum.Font.GothamBold
+TextLabel_87.Text = "Online"
+TextLabel_87.TextColor3 = Color3.new(0.941177, 0.952941, 1)
+TextLabel_87.TextSize = 12
+TextLabel_87.TextWrapped = true
+
+Frame_27.Parent = ProfilePage
+Frame_27.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
+Frame_27.Position = UDim2.new(0.0876404494, 0, 0.463157892, 0)
+Frame_27.Size = UDim2.new(0, 388, 0, 47)
+Frame_27.ZIndex = 999999999
+
+ImageLabel_50.Parent = Frame_27
+ImageLabel_50.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_50.BackgroundTransparency = 1
+ImageLabel_50.Position = UDim2.new(0.0170961358, 0, 0.166868821, 0)
+ImageLabel_50.Size = UDim2.new(0, 36, 0, 34)
+ImageLabel_50.ZIndex = 999999999
+ImageLabel_50.Image = "http://www.roblox.com/asset/?id=6022668935"
+ImageLabel_50.ImageColor3 = Color3.new(0.317647, 0.329412, 0.392157)
 
 Frame_28.Parent = ProfilePage
 Frame_28.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
-Frame_28.Position = UDim2.new(0.0876404494, 0, 0.463157892, 0)
-Frame_28.Size = UDim2.new(0, 388, 0, 47)
+Frame_28.Position = UDim2.new(0.0853932574, 0, 0.660136759, 0)
+Frame_28.Size = UDim2.new(0, 388, 0, 43)
 Frame_28.ZIndex = 999999999
-
-ImageLabel_52.Parent = Frame_28
-ImageLabel_52.BackgroundColor3 = Color3.new(1, 1, 1)
-ImageLabel_52.BackgroundTransparency = 1
-ImageLabel_52.Position = UDim2.new(0.0170961358, 0, 0.166868821, 0)
-ImageLabel_52.Size = UDim2.new(0, 36, 0, 34)
-ImageLabel_52.ZIndex = 999999999
-ImageLabel_52.Image = "http://www.roblox.com/asset/?id=6022668935"
-ImageLabel_52.ImageColor3 = Color3.new(0.317647, 0.329412, 0.392157)
 
 Frame_29.Parent = ProfilePage
 Frame_29.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
-Frame_29.Position = UDim2.new(0.0853932574, 0, 0.660136759, 0)
-Frame_29.Size = UDim2.new(0, 388, 0, 43)
+Frame_29.Position = UDim2.new(0.0853932574, 0, 0.841937602, 0)
+Frame_29.Size = UDim2.new(0, 388, 0, 44)
 Frame_29.ZIndex = 999999999
-
-Frame_30.Parent = ProfilePage
-Frame_30.BackgroundColor3 = Color3.new(0.101961, 0.105882, 0.12549)
-Frame_30.Position = UDim2.new(0.0853932574, 0, 0.841937602, 0)
-Frame_30.Size = UDim2.new(0, 388, 0, 44)
-Frame_30.ZIndex = 999999999
-
-ConsolePage.Name = "ConsolePage"
-ConsolePage.Parent = MainMenu
-ConsolePage.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
-ConsolePage.Position = UDim2.new(0.259927809, 0, 0.171588734, 0)
-ConsolePage.Size = UDim2.new(0, 410, 0, 280)
-ConsolePage.Visible = false
-ConsolePage.ZIndex = 0
-
-ScrollingFrame_5.Parent = ConsolePage
-ScrollingFrame_5.Active = true
-ScrollingFrame_5.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
-ScrollingFrame_5.BorderSizePixel = 0
-ScrollingFrame_5.Position = UDim2.new(0.0151999872, 0, 0.0511772148, 0)
-ScrollingFrame_5.Size = UDim2.new(0, 393, 0, 259)
-ScrollingFrame_5.ScrollBarThickness = 0
-
-UIPadding_2.Parent = ScrollingFrame_5
-UIPadding_2.PaddingBottom = UDim.new(0, 5)
-UIPadding_2.PaddingLeft = UDim.new(0, 5)
-UIPadding_2.PaddingRight = UDim.new(0, 5)
-UIPadding_2.PaddingTop = UDim.new(0, 5)
-
-TextBox_4.Parent = ScrollingFrame_5
-TextBox_4.BackgroundColor3 = Color3.new(1, 1, 1)
-TextBox_4.BackgroundTransparency = 1
-TextBox_4.Position = UDim2.new(-0.00174200907, 0, -0.00129495189, 0)
-TextBox_4.Size = UDim2.new(0, 385, 0, 218)
-TextBox_4.ZIndex = 999999999
-TextBox_4.Font = Enum.Font.GothamBold
-TextBox_4.Text = ""
-TextBox_4.TextColor3 = Color3.new(1, 1, 1)
-TextBox_4.TextSize = 16
-TextBox_4.TextWrapped = true
-TextBox_4.TextXAlignment = Enum.TextXAlignment.Left
-TextBox_4.TextYAlignment = Enum.TextYAlignment.Top
 
 message.Name = "message"
 message.Parent = MainMenu
@@ -4115,13 +3998,13 @@ statusImage_8.ZIndex = 999999999
 statusImage_8.Image = "http://www.roblox.com/asset/?id=6031625146"
 statusImage_8.ImageColor3 = Color3.new(0.027451, 0.670588, 0.466667)
 
-UIAspectRatioConstraint_145.Parent = statusImage_8
+UIAspectRatioConstraint_143.Parent = statusImage_8
 
 --[[
 	 Scripts:
 --]]
 
-local function GCHCE_fake_script() -- openBtn.openScript 
+local function GMNAW_fake_script() -- openBtn.openScript 
 	local script = Instance.new('LocalScript', openBtn)
 
 	local btn = script.Parent.Parent.openBtn
@@ -4136,8 +4019,8 @@ local function GCHCE_fake_script() -- openBtn.openScript
 		openKr.ImageTransparency = 0.04
 	end)
 end
-coroutine.wrap(GCHCE_fake_script)()
-local function ZZDQ_fake_script() -- OpenKr.drag 
+coroutine.wrap(GMNAW_fake_script)()
+local function AZHA_fake_script() -- OpenKr.drag 
 	local script = Instance.new('LocalScript', OpenKr)
 
 	local UIS = game:GetService('UserInputService')
@@ -4175,8 +4058,8 @@ local function ZZDQ_fake_script() -- OpenKr.drag
 		end
 	end)
 end
-coroutine.wrap(ZZDQ_fake_script)()
-local function LTWALR_fake_script() -- MainMenu.drag 
+coroutine.wrap(AZHA_fake_script)()
+local function MSBFHBM_fake_script() -- MainMenu.drag 
 	local script = Instance.new('LocalScript', MainMenu)
 
 	local UIS = game:GetService('UserInputService')
@@ -4215,8 +4098,8 @@ local function LTWALR_fake_script() -- MainMenu.drag
 	end)
 	
 end
-coroutine.wrap(LTWALR_fake_script)()
-local function YJIKK_fake_script() -- TextBox_2.LocalScript 
+coroutine.wrap(MSBFHBM_fake_script)()
+local function DLVONOQ_fake_script() -- TextBox_2.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_2)
 
 	local textbox1 = script.Parent.Parent.Parent.Parent.Parent.Parent.MainMenu.EditorPage.Editor.ScrollingFrame.TextBox
@@ -4228,9 +4111,9 @@ local function YJIKK_fake_script() -- TextBox_2.LocalScript
 	
 	textbox1.Changed:Connect(syncText)
 end
-coroutine.wrap(YJIKK_fake_script)()
+coroutine.wrap(DLVONOQ_fake_script)()
 -- preview.LocalScript is disabled.
-local function XMGWAGJ_fake_script() -- clearBtn.LocalScript 
+local function GJKFU_fake_script() -- clearBtn.LocalScript 
 	local script = Instance.new('LocalScript', clearBtn)
 
 	local btn = script.Parent.Parent.clearBtn
@@ -4240,8 +4123,8 @@ local function XMGWAGJ_fake_script() -- clearBtn.LocalScript
 		clearW.Visible = true
 	end)
 end
-coroutine.wrap(XMGWAGJ_fake_script)()
-local function KSRBK_fake_script() -- ExecuteBtn.LocalScript 
+coroutine.wrap(GJKFU_fake_script)()
+local function JEPMWC_fake_script() -- ExecuteBtn.LocalScript 
 	local script = Instance.new('LocalScript', ExecuteBtn)
 
 	local btn = script.Parent.Parent.ExecuteBtn
@@ -4275,16 +4158,16 @@ local function KSRBK_fake_script() -- ExecuteBtn.LocalScript
 	end)
 	
 end
-coroutine.wrap(KSRBK_fake_script)()
-local function EFIHSO_fake_script() -- saveBtn.LocalScript 
+coroutine.wrap(JEPMWC_fake_script)()
+local function KKMH_fake_script() -- saveBtn.LocalScript 
 	local script = Instance.new('LocalScript', saveBtn)
 
 	script.Parent.Parent.saveBtn.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Parent.Parent.SaveScript.Visible = true
 	end)
 end
-coroutine.wrap(EFIHSO_fake_script)()
-local function YZOTMX_fake_script() -- openConsole.LocalScript 
+coroutine.wrap(KKMH_fake_script)()
+local function XVZOMR_fake_script() -- openConsole.LocalScript 
 	local script = Instance.new('LocalScript', openConsole)
 
 	local consolePage = script.Parent.Parent.Parent.Parent.Parent.CONSOLEPAGE
@@ -4306,15 +4189,15 @@ local function YZOTMX_fake_script() -- openConsole.LocalScript
 	end)
 	
 end
-coroutine.wrap(YZOTMX_fake_script)()
-local function DCRF_fake_script() -- Pattern.LocalScript 
+coroutine.wrap(XVZOMR_fake_script)()
+local function ZBJF_fake_script() -- Pattern.LocalScript 
 	local script = Instance.new('LocalScript', Pattern)
 
 	print("Hello world!")
 	
 end
-coroutine.wrap(DCRF_fake_script)()
-local function NSNGVC_fake_script() -- SavedBtn.LocalScript 
+coroutine.wrap(ZBJF_fake_script)()
+local function RXZXS_fake_script() -- SavedBtn.LocalScript 
 	local script = Instance.new('LocalScript', SavedBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4350,8 +4233,8 @@ local function NSNGVC_fake_script() -- SavedBtn.LocalScript
 		fB.BackgroundColor3 = color2
 	end)
 end
-coroutine.wrap(NSNGVC_fake_script)()
-local function EDRV_fake_script() -- HubBtn.LocalScript 
+coroutine.wrap(RXZXS_fake_script)()
+local function LNFUY_fake_script() -- HubBtn.LocalScript 
 	local script = Instance.new('LocalScript', HubBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4387,8 +4270,8 @@ local function EDRV_fake_script() -- HubBtn.LocalScript
 		fB.BackgroundColor3 = color2
 	end)
 end
-coroutine.wrap(EDRV_fake_script)()
-local function QWVWQF_fake_script() -- favBtn.LocalScript 
+coroutine.wrap(LNFUY_fake_script)()
+local function RJRKVN_fake_script() -- favBtn.LocalScript 
 	local script = Instance.new('LocalScript', favBtn)
 
 	local pr1 = script.Parent.Parent.Parent
@@ -4424,8 +4307,8 @@ local function QWVWQF_fake_script() -- favBtn.LocalScript
 		fB.BackgroundColor3 = color1
 	end)
 end
-coroutine.wrap(QWVWQF_fake_script)()
-local function MIXE_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(RJRKVN_fake_script)()
+local function EUFAVIL_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4434,8 +4317,8 @@ local function MIXE_fake_script() -- TextButton.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 	end)
 end
-coroutine.wrap(MIXE_fake_script)()
-local function QMSZKIH_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(EUFAVIL_fake_script)()
+local function XZKICK_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4444,8 +4327,8 @@ local function QMSZKIH_fake_script() -- TextButton_2.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
 	end)
 end
-coroutine.wrap(QMSZKIH_fake_script)()
-local function TQWRZT_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(XZKICK_fake_script)()
+local function QAJEFD_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4454,8 +4337,8 @@ local function TQWRZT_fake_script() -- TextButton_3.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 	end)
 end
-coroutine.wrap(TQWRZT_fake_script)()
-local function WWUHVAM_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(QAJEFD_fake_script)()
+local function LIEBDZ_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4464,8 +4347,8 @@ local function WWUHVAM_fake_script() -- TextButton_4.LocalScript
 		loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
 	end)
 end
-coroutine.wrap(WWUHVAM_fake_script)()
-local function PHIF_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(LIEBDZ_fake_script)()
+local function RNMKV_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local btn = script.Parent.Parent.TextButton
@@ -4474,8 +4357,8 @@ local function PHIF_fake_script() -- TextButton_5.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game_Hub_v1.5/main/loader"))()
 	end)
 end
-coroutine.wrap(PHIF_fake_script)()
-local function XORDQL_fake_script() -- TextBox_3.LocalScript 
+coroutine.wrap(RNMKV_fake_script)()
+local function PEUWNJK_fake_script() -- TextBox_3.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_3)
 
 	local textBox = script.Parent.Parent.TextBox
@@ -4495,8 +4378,8 @@ local function XORDQL_fake_script() -- TextBox_3.LocalScript
 	
 	textBox.FocusLost:Connect(onTextBoxFocusLost)
 end
-coroutine.wrap(XORDQL_fake_script)()
-local function CCCGL_fake_script() -- refreshBtn.LocalScript 
+coroutine.wrap(PEUWNJK_fake_script)()
+local function EPIRBPE_fake_script() -- refreshBtn.LocalScript 
 	local script = Instance.new('LocalScript', refreshBtn)
 
 	local TweenService = game:GetService("TweenService")
@@ -4520,8 +4403,8 @@ local function CCCGL_fake_script() -- refreshBtn.LocalScript
 	end)
 	
 end
-coroutine.wrap(CCCGL_fake_script)()
-local function AJCTIR_fake_script() -- dots.LocalScript 
+coroutine.wrap(EPIRBPE_fake_script)()
+local function QEOXZZ_fake_script() -- dots.LocalScript 
 	local script = Instance.new('LocalScript', dots)
 
 	local btn = script.Parent.Parent.dots
@@ -4531,8 +4414,8 @@ local function AJCTIR_fake_script() -- dots.LocalScript
 		frame.Visible =  not frame.Visible
 	end)
 end
-coroutine.wrap(AJCTIR_fake_script)()
-local function BHMYKNL_fake_script() -- trigger.LocalScript 
+coroutine.wrap(QEOXZZ_fake_script)()
+local function TGZAU_fake_script() -- trigger.LocalScript 
 	local script = Instance.new('LocalScript', trigger)
 
 	local btn = script.Parent.Parent.trigger
@@ -4551,8 +4434,8 @@ local function BHMYKNL_fake_script() -- trigger.LocalScript
 		end
 	end)
 end
-coroutine.wrap(BHMYKNL_fake_script)()
-local function XUIR_fake_script() -- ToggleBar.LocalScript 
+coroutine.wrap(TGZAU_fake_script)()
+local function RHWHWOK_fake_script() -- ToggleBar.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar)
 
 	local toggleScript = false
@@ -4588,8 +4471,8 @@ local function XUIR_fake_script() -- ToggleBar.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(XUIR_fake_script)()
-local function XDCTM_fake_script() -- ToggleBar_2.LocalScript 
+coroutine.wrap(RHWHWOK_fake_script)()
+local function JYRIP_fake_script() -- ToggleBar_2.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar_2)
 
 	local toggleScript = false
@@ -4625,9 +4508,9 @@ local function XDCTM_fake_script() -- ToggleBar_2.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(XDCTM_fake_script)()
+coroutine.wrap(JYRIP_fake_script)()
 -- cOE.LocalScript is disabled.
-local function KCAUP_fake_script() -- ToggleBar_3.LocalScript 
+local function VNLPUL_fake_script() -- ToggleBar_3.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar_3)
 
 	local toggleScript = false
@@ -4669,8 +4552,8 @@ local function KCAUP_fake_script() -- ToggleBar_3.LocalScript
 	
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 end
-coroutine.wrap(KCAUP_fake_script)()
-local function ZFOP_fake_script() -- ToggleBar_4.LocalScript 
+coroutine.wrap(VNLPUL_fake_script)()
+local function CMNXA_fake_script() -- ToggleBar_4.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar_4)
 
 	local toggleScript = false
@@ -4701,8 +4584,8 @@ local function ZFOP_fake_script() -- ToggleBar_4.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(ZFOP_fake_script)()
-local function NTGUPAW_fake_script() -- ToggleBar_5.LocalScript 
+coroutine.wrap(CMNXA_fake_script)()
+local function FGTN_fake_script() -- ToggleBar_5.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar_5)
 
 	local toggleScript = false
@@ -4742,8 +4625,8 @@ local function NTGUPAW_fake_script() -- ToggleBar_5.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(NTGUPAW_fake_script)()
-local function XYZTL_fake_script() -- ToggleBar_6.LocalScript 
+coroutine.wrap(FGTN_fake_script)()
+local function KFRE_fake_script() -- ToggleBar_6.LocalScript 
 	local script = Instance.new('LocalScript', ToggleBar_6)
 
 	local toggleScript = false
@@ -4780,8 +4663,8 @@ local function XYZTL_fake_script() -- ToggleBar_6.LocalScript
 	script.Parent.MouseButton1Click:Connect(toggleButton)
 	
 end
-coroutine.wrap(XYZTL_fake_script)()
-local function YGFCL_fake_script() -- TextLabel_55.LocalScript 
+coroutine.wrap(KFRE_fake_script)()
+local function VRAZZC_fake_script() -- TextLabel_55.LocalScript 
 	local script = Instance.new('LocalScript', TextLabel_55)
 
 	local label = script.Parent.Parent.TextLabel
@@ -4801,8 +4684,8 @@ local function YGFCL_fake_script() -- TextLabel_55.LocalScript
 	end
 	
 end
-coroutine.wrap(YGFCL_fake_script)()
-local function DDIECM_fake_script() -- DName.LocalScript 
+coroutine.wrap(VRAZZC_fake_script)()
+local function IWDOXCR_fake_script() -- DName.LocalScript 
 	local script = Instance.new('LocalScript', DName)
 
 	local player = game.Players.LocalPlayer
@@ -4815,8 +4698,8 @@ local function DDIECM_fake_script() -- DName.LocalScript
 	end)
 	
 end
-coroutine.wrap(DDIECM_fake_script)()
-local function HPEWXT_fake_script() -- view.LocalScript 
+coroutine.wrap(IWDOXCR_fake_script)()
+local function THUR_fake_script() -- view.LocalScript 
 	local script = Instance.new('LocalScript', view)
 
 	local ConsoleFrameRemove = script.Parent.Parent.Parent.Parent.ConsolePage
@@ -4828,8 +4711,8 @@ local function HPEWXT_fake_script() -- view.LocalScript
 		end
 	end)
 end
-coroutine.wrap(HPEWXT_fake_script)()
-local function ZDHA_fake_script() -- Sidebar.TabHandler 
+coroutine.wrap(THUR_fake_script)()
+local function UWQF_fake_script() -- Sidebar.TabHandler 
 	local script = Instance.new('LocalScript', Sidebar)
 
 	local currentPage = 1
@@ -4884,15 +4767,6 @@ local function ZDHA_fake_script() -- Sidebar.TabHandler
 			activatedColor = activatedColors,
 			iconActive = iconActives,
 			iconInactive = iconInActives
-		},
-		[6] = {
-			page = script.Parent.Parent.ConsolePage,
-			buttonFrame = script.Parent.CONSOLEBTN,
-			button = script.Parent.CONSOLEBTN.TextButton,
-			basicColor = basicColors,
-			activatedColor = activatedColors,
-			iconActive = iconActives,
-			iconInactive = iconInActives
 		}
 	}
 	
@@ -4925,8 +4799,8 @@ local function ZDHA_fake_script() -- Sidebar.TabHandler
 	end
 	
 end
-coroutine.wrap(ZDHA_fake_script)()
-local function JSSJTD_fake_script() -- closeBtn.LocalScript 
+coroutine.wrap(UWQF_fake_script)()
+local function JNHGZGX_fake_script() -- closeBtn.LocalScript 
 	local script = Instance.new('LocalScript', closeBtn)
 
 	local isOpen = false 
@@ -4967,8 +4841,8 @@ local function JSSJTD_fake_script() -- closeBtn.LocalScript
 	script.Parent.Parent.closeBtn.MouseButton1Click:Connect(CloseUI)
 	
 end
-coroutine.wrap(JSSJTD_fake_script)()
-local function LLOY_fake_script() -- hidebtn.LocalScript 
+coroutine.wrap(JNHGZGX_fake_script)()
+local function FFZUEU_fake_script() -- hidebtn.LocalScript 
 	local script = Instance.new('LocalScript', hidebtn)
 
 	local frames = script.Parent.Parent.Parent.Parent.MainMenu
@@ -4986,8 +4860,8 @@ local function LLOY_fake_script() -- hidebtn.LocalScript
 		icon.ImageTransparency = 0.99
 	end)
 end
-coroutine.wrap(LLOY_fake_script)()
-local function WGUOB_fake_script() -- WelcomeWindow.LocalScript 
+coroutine.wrap(FFZUEU_fake_script)()
+local function WFNAE_fake_script() -- WelcomeWindow.LocalScript 
 	local script = Instance.new('LocalScript', WelcomeWindow)
 
 	local wmenu = script.Parent.Parent.WelcomeWindow
@@ -4996,8 +4870,8 @@ local function WGUOB_fake_script() -- WelcomeWindow.LocalScript
 	
 	wmenu.Visible = true
 end
-coroutine.wrap(WGUOB_fake_script)()
-local function WYQD_fake_script() -- iagree.LocalScript 
+coroutine.wrap(WFNAE_fake_script)()
+local function VBQA_fake_script() -- iagree.LocalScript 
 	local script = Instance.new('LocalScript', iagree)
 
 	local btn = script.Parent.Parent.iagree
@@ -5008,8 +4882,8 @@ local function WYQD_fake_script() -- iagree.LocalScript
 		wmenu.Visible = false
 	end)
 end
-coroutine.wrap(WYQD_fake_script)()
-local function JSAJF_fake_script() -- clear.TEST 
+coroutine.wrap(VBQA_fake_script)()
+local function GRFVCJR_fake_script() -- clear.TEST 
 	local script = Instance.new('LocalScript', clear)
 
 	local btn = script.Parent.Parent.clear
@@ -5024,9 +4898,9 @@ local function JSAJF_fake_script() -- clear.TEST
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(JSAJF_fake_script)()
-local function FNUAOF_fake_script() -- TextButton_12.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_12)
+coroutine.wrap(GRFVCJR_fake_script)()
+local function YSSHJBC_fake_script() -- TextButton_11.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_11)
 
 	local btn = script.Parent.Parent.TextButton
 	
@@ -5036,8 +4910,8 @@ local function FNUAOF_fake_script() -- TextButton_12.LocalScript
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(FNUAOF_fake_script)()
-local function YKKYONJ_fake_script() -- ImageButton.LocalScript 
+coroutine.wrap(YSSHJBC_fake_script)()
+local function MBPYUIA_fake_script() -- ImageButton.LocalScript 
 	local script = Instance.new('LocalScript', ImageButton)
 
 	local btn = script.Parent.Parent.ImageButton
@@ -5048,8 +4922,8 @@ local function YKKYONJ_fake_script() -- ImageButton.LocalScript
 		clearW.Visible = false
 	end)
 end
-coroutine.wrap(YKKYONJ_fake_script)()
-local function KDLN_fake_script() -- DName_2.LocalScript 
+coroutine.wrap(MBPYUIA_fake_script)()
+local function HEAYG_fake_script() -- DName_2.LocalScript 
 	local script = Instance.new('LocalScript', DName_2)
 
 	local player = game.Players.LocalPlayer
@@ -5062,28 +4936,4 @@ local function KDLN_fake_script() -- DName_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(KDLN_fake_script)()
-local function KVWQHA_fake_script() -- ConsolePage.Script 
-	local script = Instance.new('Script', ConsolePage)
-
-	local ScrollingFrame = script.Parent.ScrollingFrame
-	local ConsoleText = ScrollingFrame.TextBox
-	local Console = game:GetService("Console")
-	
-	local function updateConsole()
-		local output = Console:GetLogHistory()
-		ConsoleText.Text = table.concat(output, "\n")
-		ConsoleText.Size = UDim2.new(1, 0, 0, ConsoleText.TextBounds.Y)
-		ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, ConsoleText.TextBounds.Y)
-	end
-	
-	updateConsole()
-	Console.OutputChanged:Connect(updateConsole)
-	
-	local ls = game:GetService("LogService")
-	
-	ls.MessageOut:Connect(function(Message, Type)
-		appendfile("rest.txt",tostring(Message) .."\n \n")
-	end)
-end
-coroutine.wrap(KVWQHA_fake_script)()
+coroutine.wrap(HEAYG_fake_script)()
