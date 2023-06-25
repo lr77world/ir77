@@ -1,5 +1,5 @@
 local success, result = pcall(function()
-    loadstring(game:HttpGet("lr77world/ir77/blob/main/menu"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lr77world/ir77/main/menu"))()
 end)
 
 if success then
