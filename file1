@@ -1,6 +1,27 @@
-while not game:IsLoaded() do
-    wait(1)
+local gameLoaded = false
+
+local function checkGameLoaded()
+    if gameLoaded then
+        return true
+    end
+    
+    local function onDescendantAdded(descendant)
+        if descendant:IsA("BasePart") then
+            gameLoaded = true
+        end
+    end
+    
+    -- Listen for any BasePart being added to the Workspace
+    Workspace.DescendantAdded:Connect(onDescendantAdded)
+    
+    return false
 end
+
+while not checkGameLoaded() do
+    wait(1) -- Wait for 1 second before checking again
+end
+
+-- Game has finished loading, continue with your script here
 
 local function runScript()
     local success, errorMessage = pcall(function()
