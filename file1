@@ -695,6 +695,7 @@ kr.openBtn.TextColor3 = Color3.fromRGB(5, 122, 85)
 kr.openBtn.TextScaled = true
 kr.openBtn.TextSize = 14.000
 kr.openBtn.TextWrapped = true
+kr.Active = true
 
 kr.UICorner.CornerRadius = UDim.new(0, 60)
 kr.UICorner.Parent = kr.openBtn
