@@ -6,7 +6,7 @@ print("Welcome, " .. playerName .. ". Thanks for choosing Krypton Exploit!")
 -- (VOID) : Gui to Lua
 -- Version: 1.4
 
--- Instances:
+-- Instances
 
 local kr = {
 	kr = Instance.new("ScreenGui"),
