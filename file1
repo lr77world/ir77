@@ -684,6 +684,7 @@ kr.OpenKr.Image = "rbxassetid://13776988281"
 
 kr.openBtn.Name = "openBtn"
 kr.openBtn.Parent = kr.OpenKr
+OpenKr.Active = true
 kr.openBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr.openBtn.BackgroundTransparency = 1.000
 kr.openBtn.Position = UDim2.new(0, 27, 0, 21)
@@ -695,7 +696,6 @@ kr.openBtn.TextColor3 = Color3.fromRGB(5, 122, 85)
 kr.openBtn.TextScaled = true
 kr.openBtn.TextSize = 14.000
 kr.openBtn.TextWrapped = true
-kr.Active = true
 
 kr.UICorner.CornerRadius = UDim.new(0, 60)
 kr.UICorner.Parent = kr.openBtn
