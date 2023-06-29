@@ -4510,7 +4510,7 @@ local function WTVX_fake_script() -- kr.ExecuteBtn.LocalScript
 
 		if check.Visible == true then
 
-			loadstring(inp.Text)()
+			krypton_queuescript(inp.Text)
 			warn("🎉 Script successfully executed!🎉")
 
 			menu.Visible = false
@@ -4518,7 +4518,7 @@ local function WTVX_fake_script() -- kr.ExecuteBtn.LocalScript
 
 		else
 
-			loadstring(inp.Text)()
+			krypton_queuescript(inp.Text)
 			warn("🎉 Script successfully executed! 🎉")
 
 		end	
