@@ -4510,16 +4510,21 @@ local function WTVX_fake_script() -- kr.ExecuteBtn.LocalScript
 
 		if check.Visible == true then
 
-			krypton_queuescript(inp.Text)
-			warn("🎉 Script successfully executed!🎉")
-
+			Local startTime = tick()
+                        krypton_queuescript(inp.Text)
+                        Local endTime = tick()
+                        Local time = startTime - endTime
+                        warn("🎉 Script successfully executed within "..time.."Sec!🎉")
 			menu.Visible = false
 			openKr.Visible = true
 
 		else
 
-			krypton_queuescript(inp.Text)
-			warn("🎉 Script successfully executed! 🎉")
+                        Local startTime = tick()
+                        krypton_queuescript(inp.Text)
+                        Local endTime = tick()
+                        Local time = startTime - endTime
+                        warn("🎉 Script successfully executed within "..time.."Sec!🎉")
 
 		end	
 
